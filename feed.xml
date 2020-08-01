@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>IECB-Pubii-Template2</title>
-    <link href="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/feed.xml" rel="self" />
-    <link href="https://iecb-u-bordeaux.github.io/site-publii-cms-repo" />
+    <link href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/feed.xml" rel="self" />
+    <link href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo" />
     <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>IECB Publisher</name>
     </author>
-    <id>https://iecb-u-bordeaux.github.io/site-publii-cms-repo</id>
+    <id>https://iecb-u-bordeaux.github.io/website-publii-cms-repo</id>
 
     <entry>
         <title>Annual Report</title>
         <author>
             <name>IECB Publisher</name>
         </author>
-        <link href="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/annual-report.html"/>
-        <id>https://iecb-u-bordeaux.github.io/site-publii-cms-repo/annual-report.html</id>
+        <link href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/annual-report.html"/>
+        <id>https://iecb-u-bordeaux.github.io/website-publii-cms-repo/annual-report.html</id>
             <category term="Annual Report"/>
 
-        <updated>2020-08-01T15:40:40+02:00</updated>
+        <updated>2020-08-01T19:18:33+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/13/pix-annual-report-IECB-2018.jpg" alt="" />
+                        <img src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/13/pix-annual-report-IECB-2018.jpg" alt="" />
                     Rapport Annuel 2018Le rapport scientifique 2018 en ligne Le rapport annuel de l'IECB est disponible. Pour le consulter : Download here
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/13/pix-annual-report-IECB-2018.jpg" alt="" />
+                    <img src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/13/pix-annual-report-IECB-2018.jpg" alt="" />
                 <h2>Rapport Annuel 2018</h2>
-<p>Le rapport scientifique 2018 en ligne<br>Le rapport annuel de l'IECB est disponible.<br>Pour le consulter : <a href="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/IECB-Annual-Report-2018.pdf" target="_blank" rel="noopener noreferrer">Download here</a></p>
+<p>Le rapport scientifique 2018 en ligne<br>Le rapport annuel de l'IECB est disponible.<br>Pour le consulter : <a href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/IECB-Annual-Report-2018.pdf" target="_blank" rel="noopener noreferrer">Download here</a></p>
             ]]>
         </content>
     </entry>
@@ -38,11 +38,11 @@
         <author>
             <name>IECB Publisher</name>
         </author>
-        <link href="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/board-direction.html"/>
-        <id>https://iecb-u-bordeaux.github.io/site-publii-cms-repo/board-direction.html</id>
+        <link href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/board-direction.html"/>
+        <id>https://iecb-u-bordeaux.github.io/website-publii-cms-repo/board-direction.html</id>
             <category term="Direction"/>
 
-        <updated>2020-08-01T15:40:40+02:00</updated>
+        <updated>2020-08-01T19:18:33+02:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -51,10 +51,10 @@
         <author>
             <name>IECB Publisher</name>
         </author>
-        <link href="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/organisation-board.html"/>
-        <id>https://iecb-u-bordeaux.github.io/site-publii-cms-repo/organisation-board.html</id>
+        <link href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/organisation-board.html"/>
+        <id>https://iecb-u-bordeaux.github.io/website-publii-cms-repo/organisation-board.html</id>
 
-        <updated>2020-08-01T15:40:40+02:00</updated>
+        <updated>2020-08-01T19:18:33+02:00</updated>
             <summary>
                 <![CDATA[
                      Board of directors Dr. Rémi FRONZES Directeur de l’IECB et de l’UMS/US Directeur de Recherche CNRS Dr. Valérie GABELICA co-Directrice de L'IECB Directeur de Recherche INSERM Mme Sylvie DJIAN Directrice adjointe de l’UMS/US Ingénieur de recherche CNRS Dr. Brice KAUFFMANN Directeur adjoint de l’UMS/US&hellip;
@@ -110,22 +110,22 @@
         <author>
             <name>IECB Publisher</name>
         </author>
-        <link href="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/about-iecb.html"/>
-        <id>https://iecb-u-bordeaux.github.io/site-publii-cms-repo/about-iecb.html</id>
+        <link href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/about-iecb.html"/>
+        <id>https://iecb-u-bordeaux.github.io/website-publii-cms-repo/about-iecb.html</id>
             <category term="Presentation"/>
             <category term="Mission"/>
             <category term="IECB"/>
 
-        <updated>2020-08-01T15:40:40+02:00</updated>
+        <updated>2020-08-01T19:18:33+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/10/pix-IECB-Presentation.jpg" alt="IECB Batiment" />
+                        <img src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/10/pix-IECB-Presentation.jpg" alt="IECB Batiment" />
                      Presentation The Institut Européen de Chimie et Biologie (IECB) is an international and interdisciplinary research team incubator, placed under the joint authority of the CNRS, the Inserm and the Université de Bordeaux. It was created in 1998 with the support of the Aquitaine Regional&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/10/pix-IECB-Presentation.jpg" alt="IECB Batiment" />
+                    <img src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/10/pix-IECB-Presentation.jpg" alt="IECB Batiment" />
                 
     <h2 id="presentation">
       Presentation
@@ -136,7 +136,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/10/pix-IECB-Presentation2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/10/responsive/pix-IECB-Presentation2-xs.jpg 300w ,https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/10/responsive/pix-IECB-Presentation2-sm.jpg 480w ,https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/10/responsive/pix-IECB-Presentation2-md.jpg 768w ,https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/10/responsive/pix-IECB-Presentation2-lg.jpg 1024w ,https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/10/responsive/pix-IECB-Presentation2-xl.jpg 1360w ,https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/10/responsive/pix-IECB-Presentation2-2xl.jpg 1600w"  height="1001" width="1500" alt="" />
+      <img loading="lazy" src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/10/pix-IECB-Presentation2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/10/responsive/pix-IECB-Presentation2-xs.jpg 300w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/10/responsive/pix-IECB-Presentation2-sm.jpg 480w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/10/responsive/pix-IECB-Presentation2-md.jpg 768w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/10/responsive/pix-IECB-Presentation2-lg.jpg 1024w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/10/responsive/pix-IECB-Presentation2-xl.jpg 1360w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/10/responsive/pix-IECB-Presentation2-2xl.jpg 1600w"  height="1001" width="1500" alt="" />
       
     </figure>
 
@@ -173,7 +173,7 @@
   </ul>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/10/pix-IECB-Presentation3.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/10/responsive/pix-IECB-Presentation3-xs.png 300w ,https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/10/responsive/pix-IECB-Presentation3-sm.png 480w ,https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/10/responsive/pix-IECB-Presentation3-md.png 768w ,https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/10/responsive/pix-IECB-Presentation3-lg.png 1024w ,https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/10/responsive/pix-IECB-Presentation3-xl.png 1360w ,https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/10/responsive/pix-IECB-Presentation3-2xl.png 1600w"  height="456" width="948" alt="" />
+      <img loading="lazy" src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/10/pix-IECB-Presentation3.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/10/responsive/pix-IECB-Presentation3-xs.png 300w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/10/responsive/pix-IECB-Presentation3-sm.png 480w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/10/responsive/pix-IECB-Presentation3-md.png 768w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/10/responsive/pix-IECB-Presentation3-lg.png 1024w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/10/responsive/pix-IECB-Presentation3-xl.png 1360w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/10/responsive/pix-IECB-Presentation3-2xl.png 1600w"  height="456" width="948" alt="" />
       
     </figure>
 
@@ -208,10 +208,10 @@
         <author>
             <name>IECB Publisher</name>
         </author>
-        <link href="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/research-teams-2.html"/>
-        <id>https://iecb-u-bordeaux.github.io/site-publii-cms-repo/research-teams-2.html</id>
+        <link href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/research-teams-2.html"/>
+        <id>https://iecb-u-bordeaux.github.io/website-publii-cms-repo/research-teams-2.html</id>
 
-        <updated>2020-08-01T15:40:40+02:00</updated>
+        <updated>2020-08-01T19:18:33+02:00</updated>
             <summary>
                 <![CDATA[
                     Equipes de rechercheSite Web de l'équipe Site Web de l'équipe Site Web de l'équipe Site Web de l'équipe Site Web de l'équipe Translational Regulation of Gene Expression Solid-State NMR of Molecular Assemblies Chemical Neuroglycobiology Structure and function of bacterial nano-machines Team website Single-molecule Biophysic Nicolas&hellip;
@@ -322,10 +322,10 @@ Control and dynamics of cell division<br><hr></div>
         <author>
             <name>IECB Publisher</name>
         </author>
-        <link href="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/legals-mentions.html"/>
-        <id>https://iecb-u-bordeaux.github.io/site-publii-cms-repo/legals-mentions.html</id>
+        <link href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/legals-mentions.html"/>
+        <id>https://iecb-u-bordeaux.github.io/website-publii-cms-repo/legals-mentions.html</id>
 
-        <updated>2020-08-01T15:40:40+02:00</updated>
+        <updated>2020-08-01T19:18:33+02:00</updated>
             <summary>
                 <![CDATA[
                      Informations générales Le site www.iecb.u-bordeaux.fr une publication de l'Institut Européen de Chimie et Biologie (IECB), 2 rue Robert Escarpit, 33607 PESSAC, France Directeur de la publication : Jean-Louis Mergny Directeur de la rédaction : Céline Charrier Crédits photos: Yves Théobald (YTP), François Guenet (François&hellip;
@@ -412,26 +412,26 @@ Control and dynamics of cell division<br><hr></div>
         <author>
             <name>IECB Publisher</name>
         </author>
-        <link href="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/iecb-technology-platforms.html"/>
-        <id>https://iecb-u-bordeaux.github.io/site-publii-cms-repo/iecb-technology-platforms.html</id>
+        <link href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/iecb-technology-platforms.html"/>
+        <id>https://iecb-u-bordeaux.github.io/website-publii-cms-repo/iecb-technology-platforms.html</id>
             <category term="Tech"/>
             <category term="Platform"/>
             <category term="IECB"/>
 
-        <updated>2020-08-01T15:40:40+02:00</updated>
+        <updated>2020-08-01T19:18:33+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/1/pexels-thisisengineering-3862623.jpg" alt="" />
+                        <img src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/1/pexels-thisisengineering-3862623.jpg" alt="" />
                     IECB technology platforms bring together the scientific instrumentation and expertise available at the institute.Open to companies and acadamic labs, they provide services in Structural biology and Preparative and analytical techniques. IECB technology platforms are part of IECB's support services unit (UMS3033/US001). IECB's support services, which&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/1/pexels-thisisengineering-3862623.jpg" alt="" />
+                    <img src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/1/pexels-thisisengineering-3862623.jpg" alt="" />
                 <h3><em><strong>IECB technology platforms</strong> bring together the scientific instrumentation and expertise available at the institute.</em></h3>
 <p>Open to companies and acadamic labs, they provide services in <a target="_self" href="http://www.iecb.u-bordeaux.fr/index.php/en/structural-biophysico-chemistry">Structural biology</a> and <a target="_self" href="http://www.iecb.u-bordeaux.fr/index.php/en/techniques-analytiques-et-preparatives">Preparative and analytical techniques</a>.</p>
 <p> </p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/1/Photo-IECB-dsc_5816.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/1/responsive/Photo-IECB-dsc_5816-xs.jpg 300w ,https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/1/responsive/Photo-IECB-dsc_5816-sm.jpg 480w ,https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/1/responsive/Photo-IECB-dsc_5816-md.jpg 768w ,https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/1/responsive/Photo-IECB-dsc_5816-lg.jpg 1024w ,https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/1/responsive/Photo-IECB-dsc_5816-xl.jpg 1360w ,https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/1/responsive/Photo-IECB-dsc_5816-2xl.jpg 1600w"  alt="IECB technology platforms" width="883" height="587"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/1/Photo-IECB-dsc_5816.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/1/responsive/Photo-IECB-dsc_5816-xs.jpg 300w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/1/responsive/Photo-IECB-dsc_5816-sm.jpg 480w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/1/responsive/Photo-IECB-dsc_5816-md.jpg 768w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/1/responsive/Photo-IECB-dsc_5816-lg.jpg 1024w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/1/responsive/Photo-IECB-dsc_5816-xl.jpg 1360w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/1/responsive/Photo-IECB-dsc_5816-2xl.jpg 1600w"  alt="IECB technology platforms" width="883" height="587"></figure>
 <p>IECB technology platforms are part of IECB's support services unit (UMS3033/US001). IECB's support services, which also comprises mutualised services in administration, infrastructure and informatics, are aimed at facilitating the work of the IECB teams.<br>IECB's support services unit is jointly funded by the CNRS, the Inserm, the Université of Bordeaux , and receives financial support from the Aquitaine Regional Council. Research teams also contribute to financing those general services.</p>
             ]]>
         </content>
@@ -441,17 +441,17 @@ Control and dynamics of cell division<br><hr></div>
         <author>
             <name>IECB Publisher</name>
         </author>
-        <link href="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/control-and-dynamics-of-cell-division-dr-anne-royou.html"/>
-        <id>https://iecb-u-bordeaux.github.io/site-publii-cms-repo/control-and-dynamics-of-cell-division-dr-anne-royou.html</id>
+        <link href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/control-and-dynamics-of-cell-division-dr-anne-royou.html"/>
+        <id>https://iecb-u-bordeaux.github.io/website-publii-cms-repo/control-and-dynamics-of-cell-division-dr-anne-royou.html</id>
             <category term="DNA"/>
             <category term="Chromosm"/>
             <category term="Cell Division"/>
             <category term="Cell"/>
 
-        <updated>2020-08-01T15:40:40+02:00</updated>
+        <updated>2020-08-01T19:18:33+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/3/pexels-thisisengineering-3861448.jpg" alt="" />
+                        <img src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/pexels-thisisengineering-3861448.jpg" alt="" />
                     
     <h2 id="summary">
       Summary
@@ -478,7 +478,7 @@ Control and dynamics of cell division<br><hr></div>
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/3/pix-royou_fig1.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/3/responsive/pix-royou_fig1-xs.jpg 300w ,https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/3/responsive/pix-royou_fig1-sm.jpg 480w ,https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/3/responsive/pix-royou_fig1-md.jpg 768w ,https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/3/responsive/pix-royou_fig1-lg.jpg 1024w ,https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/3/responsive/pix-royou_fig1-xl.jpg 1360w ,https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/3/responsive/pix-royou_fig1-2xl.jpg 1600w"  height="800" width="1013" alt="" />
+      <img loading="lazy" src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/pix-royou_fig1.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig1-xs.jpg 300w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig1-sm.jpg 480w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig1-md.jpg 768w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig1-lg.jpg 1024w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig1-xl.jpg 1360w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig1-2xl.jpg 1600w"  height="800" width="1013" alt="" />
       
     </figure>
 
@@ -491,7 +491,7 @@ Control and dynamics of cell division<br><hr></div>
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/3/pix-royou_fig2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/3/responsive/pix-royou_fig2-xs.jpg 300w ,https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/3/responsive/pix-royou_fig2-sm.jpg 480w ,https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/3/responsive/pix-royou_fig2-md.jpg 768w ,https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/3/responsive/pix-royou_fig2-lg.jpg 1024w ,https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/3/responsive/pix-royou_fig2-xl.jpg 1360w ,https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/3/responsive/pix-royou_fig2-2xl.jpg 1600w"  height="200" width="454" alt="" />
+      <img loading="lazy" src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/pix-royou_fig2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig2-xs.jpg 300w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig2-sm.jpg 480w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig2-md.jpg 768w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig2-lg.jpg 1024w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig2-xl.jpg 1360w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig2-2xl.jpg 1600w"  height="200" width="454" alt="" />
       
     </figure>
 
@@ -503,7 +503,7 @@ Control and dynamics of cell division<br><hr></div>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/3/pexels-thisisengineering-3861448.jpg" alt="" />
+                    <img src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/pexels-thisisengineering-3861448.jpg" alt="" />
                 
     <h2 id="summary">
       Summary
@@ -530,7 +530,7 @@ Control and dynamics of cell division<br><hr></div>
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/3/pix-royou_fig1.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/3/responsive/pix-royou_fig1-xs.jpg 300w ,https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/3/responsive/pix-royou_fig1-sm.jpg 480w ,https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/3/responsive/pix-royou_fig1-md.jpg 768w ,https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/3/responsive/pix-royou_fig1-lg.jpg 1024w ,https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/3/responsive/pix-royou_fig1-xl.jpg 1360w ,https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/3/responsive/pix-royou_fig1-2xl.jpg 1600w"  height="800" width="1013" alt="" />
+      <img loading="lazy" src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/pix-royou_fig1.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig1-xs.jpg 300w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig1-sm.jpg 480w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig1-md.jpg 768w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig1-lg.jpg 1024w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig1-xl.jpg 1360w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig1-2xl.jpg 1600w"  height="800" width="1013" alt="" />
       
     </figure>
 
@@ -543,7 +543,7 @@ Control and dynamics of cell division<br><hr></div>
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/3/pix-royou_fig2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/3/responsive/pix-royou_fig2-xs.jpg 300w ,https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/3/responsive/pix-royou_fig2-sm.jpg 480w ,https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/3/responsive/pix-royou_fig2-md.jpg 768w ,https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/3/responsive/pix-royou_fig2-lg.jpg 1024w ,https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/3/responsive/pix-royou_fig2-xl.jpg 1360w ,https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/3/responsive/pix-royou_fig2-2xl.jpg 1600w"  height="200" width="454" alt="" />
+      <img loading="lazy" src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/pix-royou_fig2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig2-xs.jpg 300w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig2-sm.jpg 480w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig2-md.jpg 768w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig2-lg.jpg 1024w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig2-xl.jpg 1360w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig2-2xl.jpg 1600w"  height="200" width="454" alt="" />
       
     </figure>
 
@@ -565,8 +565,8 @@ Control and dynamics of cell division<br><hr></div>
         <author>
             <name>IECB Publisher</name>
         </author>
-        <link href="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/growth-and-cell-division.html"/>
-        <id>https://iecb-u-bordeaux.github.io/site-publii-cms-repo/growth-and-cell-division.html</id>
+        <link href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/growth-and-cell-division.html"/>
+        <id>https://iecb-u-bordeaux.github.io/website-publii-cms-repo/growth-and-cell-division.html</id>
             <category term="exocytosis"/>
             <category term="endocytosis"/>
             <category term="cyclin-dependent kinase"/>
@@ -575,16 +575,16 @@ Control and dynamics of cell division<br><hr></div>
             <category term="cell cycle"/>
             <category term="Rho GTPase"/>
 
-        <updated>2020-08-01T15:40:40+02:00</updated>
+        <updated>2020-08-01T19:18:33+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/5/pexels-cdc-3992943.jpg" alt="" />
+                        <img src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/5/pexels-cdc-3992943.jpg" alt="" />
                      Cells grow, duplicate their genome and divide via a series of events collectively termed the cell cycle. Coordination between the cell cycle machinery and proteins that regulate cell growth ensure the fidelity of cell division; however, the underlying mechanisms are unclear. Failure of these&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/5/pexels-cdc-3992943.jpg" alt="" />
+                    <img src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/5/pexels-cdc-3992943.jpg" alt="" />
                 <p> </p>
 <table class="contentpaneopen">
 <tbody>
@@ -660,23 +660,23 @@ Control and dynamics of cell division<br><hr></div>
         <author>
             <name>IECB Publisher</name>
         </author>
-        <link href="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/peptidomimetic-chemistry.html"/>
-        <id>https://iecb-u-bordeaux.github.io/site-publii-cms-repo/peptidomimetic-chemistry.html</id>
+        <link href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/peptidomimetic-chemistry.html"/>
+        <id>https://iecb-u-bordeaux.github.io/website-publii-cms-repo/peptidomimetic-chemistry.html</id>
             <category term="Protein"/>
             <category term="Peptidomimetic"/>
             <category term="Peptide"/>
             <category term="Chemistry"/>
 
-        <updated>2020-08-01T15:40:40+02:00</updated>
+        <updated>2020-08-01T19:18:33+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/4/pexels-chokniti-khongchum-2280571.jpg" alt="" />
+                        <img src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/4/pexels-chokniti-khongchum-2280571.jpg" alt="" />
                     SummaryThe ability of the polypeptide chain to fold correctly into well-ordered tertiary structures that can ultimately assemble into defined quaternary arrrangments is a major determinant of protein function. Multiple approaches, at the interface between biology, synthetic organic and polymer chemistries are currently being explored to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://iecb-u-bordeaux.github.io/site-publii-cms-repo/media/posts/4/pexels-chokniti-khongchum-2280571.jpg" alt="" />
+                    <img src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/4/pexels-chokniti-khongchum-2280571.jpg" alt="" />
                 <h2>Summary</h2>
 <p>The ability of the polypeptide chain to fold correctly into well-ordered tertiary structures that can ultimately assemble into defined quaternary arrrangments is a major determinant of protein function. Multiple approaches, at the interface between biology, synthetic organic and polymer chemistries are currently being explored to elaborate synthetic systems with protein-like structures and functions. By using peptidomimetic chemistry, the general aims of our research are (i) to understand how to program molecules with the necessary information for self-ordering into complex and functional architectures, (ii) to create folded systems mimicking protein secondary<strong><br><br></strong></p>
 <h2>Activity report</h2>
