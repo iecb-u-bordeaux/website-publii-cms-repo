@@ -5,118 +5,495 @@
     <link href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo" />
     <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
-        <name>IECB Publisher</name>
+        <name>IECB Web Publisher</name>
     </author>
     <id>https://iecb-u-bordeaux.github.io/website-publii-cms-repo</id>
 
     <entry>
-        <title>Annual Report</title>
+        <title>Institutional Relations</title>
         <author>
-            <name>IECB Publisher</name>
+            <name>IECB Web Publisher</name>
         </author>
-        <link href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/annual-report.html"/>
-        <id>https://iecb-u-bordeaux.github.io/website-publii-cms-repo/annual-report.html</id>
-            <category term="Annual Report"/>
+        <link href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/institutional-relations/"/>
+        <id>https://iecb-u-bordeaux.github.io/website-publii-cms-repo/institutional-relations/</id>
+            <category term="U-Bordeaux"/>
+            <category term="Trustees"/>
+            <category term="Partners"/>
+            <category term="INSERM"/>
+            <category term="CNRS"/>
 
-        <updated>2020-08-01T19:18:33+02:00</updated>
+        <updated>2020-08-13T02:51:07+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/13/pix-annual-report-IECB-2018.jpg" alt="" />
-                    Rapport Annuel 2018Le rapport scientifique 2018 en ligne Le rapport annuel de l'IECB est disponible. Pour le consulter : Download here
+                        <img src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/20/pix-institutional-relations.jpg.jpg" alt="" />
+                    TrusteesCNRS INSERMUniversité de BordeauxPartner institutions Club ARN de BordeauxClub MECCAiNOC'nano Grand Sud-Ouest
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/13/pix-annual-report-IECB-2018.jpg" alt="" />
-                <h2>Rapport Annuel 2018</h2>
+                    <img src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/20/pix-institutional-relations.jpg.jpg" alt="" />
+                <h3><strong>Trustees</strong></h3>
+<figure class="post__image"><img loading="lazy"  src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/20/Logo-Cnrs-Inserm-U-Bordeaux-2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/20/responsive/Logo-Cnrs-Inserm-U-Bordeaux-2-xs.jpg 300w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/20/responsive/Logo-Cnrs-Inserm-U-Bordeaux-2-sm.jpg 480w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/20/responsive/Logo-Cnrs-Inserm-U-Bordeaux-2-md.jpg 768w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/20/responsive/Logo-Cnrs-Inserm-U-Bordeaux-2-lg.jpg 1024w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/20/responsive/Logo-Cnrs-Inserm-U-Bordeaux-2-xl.jpg 1360w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/20/responsive/Logo-Cnrs-Inserm-U-Bordeaux-2-2xl.jpg 1600w"  alt=""></figure>
+<ul>
+<li><a href="http://www.cnrs.fr/" target="_blank" rel="noopener">CNRS</a></li>
+<li> <a href="http://www.inserm.fr/" target="_blank" rel="noopener">INSERM</a></li>
+<li><a target="_blank" href="http://www.u-bordeaux.fr/" rel="noopener">Université de Bordeaux</a></li>
+</ul>
+<hr>
+<h3><strong>Partner institutions<br></strong></h3>
+<p><a href="http://aquitaine.fr/" target="_blank" rel="noopener"><img loading="lazy" src="http://www.iecb.u-bordeaux.fr/images/stories/logos/logocra.jpg" data-is-external-image="true"  border="0"></a><a href="http://www.cnrs.fr/" target="_blank" rel="noopener"><img loading="lazy" src="http://www.iecb.u-bordeaux.fr/images/stories/logos/cnrs.jpg" data-is-external-image="true"  width="74" height="74" border="0"></a><a href="http://www.pgfb.u-bordeaux2.fr/" target="_blank" rel="noopener"><img loading="lazy" src="http://www.iecb.u-bordeaux.fr/images/stories/logos/logocgfb.jpg" data-is-external-image="true"  width="146" height="91" border="0"></a><a href="http://www.tgir-rmn.org/" target="_blank" rel="noopener"><img loading="lazy" src="http://www.iecb.u-bordeaux.fr/images/stories/logos/logo.gif" data-is-external-image="true"  border="0"></a></p>
+<p><a href="http://www.interbio-sudoe.eu/" target="_blank" rel="noopener"><img loading="lazy" src="http://www.iecb.u-bordeaux.fr/images/stories/logos/logo_interbio.jpg" data-is-external-image="true"  width="111" height="106" border="0"></a><a href="http://www.interreg-sudoe.eu/FRA" target="_blank" rel="noopener"><img loading="lazy" src="http://www.iecb.u-bordeaux.fr/images/stories/logos/bannerlogos-01.jpg" data-is-external-image="true"  width="87" height="107" border="0"></a><a href="http://www.interbio-sudoe.eu/" target="_blank" rel="noopener"></a></p>
+<ul>
+<li><a href="http://aquitaine.fr/" target="_blank" rel="noopener">Conseil Régional</a></li>
+<li><a href="http://www.cnrs.fr/" target="_blank" rel="noopener">Cellule Hôtels</a></li>
+<li> <a href="http://www.pgfb.u-bordeaux2.fr/" target="_blank" rel="noopener">Centre de Génomique</a></li>
+<li><a href="http://www.tgir-rmn.org/" target="_blank" rel="noopener">Réseau TGIR RMN du CNRS </a><a href="http://aquitaine.fr/" target="_blank" rel="noopener">d'Aquitaine</a></li>
+<li><a href="http://www.cnrs.fr/" target="_blank" rel="noopener">à Projets CNRS</a></li>
+<li><a href="http://www.pgfb.u-bordeaux2.fr/" target="_blank" rel="noopener">Fonctionnelle de Bordeaux</a></li>
+<li><a href="http://www.interbio-sudoe.eu/" target="_blank" rel="noopener">Réseau Interbio SUDOE</a><br><br></li>
+</ul>
+<p><a href="http://www.canceropole-gso.org/" target="_blank" rel="noopener"><img loading="lazy" src="http://www.iecb.u-bordeaux.fr/images/stories/logos/logokgso.jpg" data-is-external-image="true"  width="176" height="82" border="0"></a><a href="http://www.ifr66.u-bordeaux2.fr/" target="_blank" rel="noopener"><img loading="lazy" src="http://www.iecb.u-bordeaux.fr/images/stories/logos/logoac-transbiomed.png" data-is-external-image="true"  alt="logoac-transbiomed" width="176" height="99"></a><a target="_blank" href="http://www.univ-bordeauxsegalen.fr/fr/recherche/acteurs-de-la-recherche/technologies-pour-la-sante.html" rel="noopener"><img loading="lazy" src="http://www.iecb.u-bordeaux.fr/images/stories/logos/sfr%20techsan-01web.jpg" data-is-external-image="true"  alt="sfr techsan-01web" width="100" height="124"></a>         <a target="_blank" href="http://www.iecb.u-bordeaux.fr/arna_u869/contactus.php" rel="noopener"><img loading="lazy" src="http://www.iecb.u-bordeaux.fr/images/stories/logos/logoarna.jpg" data-is-external-image="true"  alt="logoarna" width="176" height="59"></a></p>
+<ul>
+<li><a href="http://www.canceropole-gso.org/" target="_blank" rel="noopener">Cancéropôle Grand Sud-Ouest</a></li>
+<li><a href="http://www.ifr66.u-bordeaux2.fr/" target="_blank" rel="noopener">SFR Transbiomed</a></li>
+<li><a target="_blank" href="http://www.univ-bordeauxsegalen.fr/fr/recherche/acteurs-de-la-recherche/technologies-pour-la-sante.html" rel="noopener">SFR TecSan</a></li>
+<li><a href="http://www.iecb.u-bordeaux.fr/arna_u869/contactus.php" target="_blank" rel="noopener">ARNA Lab Inserm U869</a><br><br></li>
+</ul>
+<p><a href="http://www.cbmn.u-bordeaux.fr/" target="_blank" rel="noopener"><img loading="lazy" src="http://www.iecb.u-bordeaux.fr/images/stories/logos/cbmn.jpg" data-is-external-image="true"  width="153" height="42" border="0"></a><a href="http://www.ibgc.u-bordeaux2.fr/" target="_blank" rel="noopener"><img loading="lazy" src="http://www.iecb.u-bordeaux.fr/images/stories/logos/logo-ibgc2.jpg" data-is-external-image="true"  width="73" height="61" border="0"></a><a href="http://www.ism.u-bordeaux1.fr/" target="_blank" rel="noopener"><img loading="lazy" src="http://www.iecb.u-bordeaux.fr/images/stories/logos/logo%20ism%20modif.jpg" data-is-external-image="true"  width="104" height="51" border="0"></a><a href="http://www.lcpo.fr/" target="_blank" rel="noopener"><img loading="lazy" src="http://www.iecb.u-bordeaux.fr/images/stories/logos/lcpo.jpg" data-is-external-image="true"  width="123" height="36" border="0"></a><a href="http://www.enscpb.fr/" target="_blank" rel="noopener"><img loading="lazy" src="http://www.iecb.u-bordeaux.fr/images/stories/logos/logoenscbp_web.jpg" data-is-external-image="true"  width="68" height="77" border="0"></a></p>
+<ul>
+<li><a href="http://www.cbmn.u-bordeaux.fr/" target="_blank" rel="noopener">CBMN UMR5248</a></li>
+<li><a href="http://www.ibgc.u-bordeaux2.fr/" target="_blank" rel="noopener">IGBC UMR5095 </a></li>
+<li><a href="http://www.ism.u-bordeaux1.fr/" target="_blank" rel="noopener">ISM UMR 5255 </a></li>
+<li><a href="http://www.lcpo.fr/" target="_blank" rel="noopener">LCPO UMR5629</a></li>
+<li><a href="http://www.enscpb.fr/" target="_blank" rel="noopener">ENSCBP/IPB</a><br><br><hr></li>
+</ul>
+<h3><strong>Other partnerships<br></strong></h3>
+<p><a href="http://www.iecb.u-bordeaux.fr/clubarn/Club_ARN/Homepage.html" target="_blank" rel="noopener"><img loading="lazy" src="http://www.iecb.u-bordeaux.fr/images/stories/logos/logo_rnaclub.jpg" data-is-external-image="true"  width="151" height="66" border="0"></a><a href="http://www.ifr66.u-bordeaux2.fr/pages/meccaino.html" target="_blank" rel="noopener"><img loading="lazy" src="http://www.iecb.u-bordeaux.fr/images/stories/logos/meccaino.jpg" data-is-external-image="true"  width="98" height="68" border="0"></a><a href="http://www.u-bordeaux1.fr/cnano/" target="_blank" rel="noopener"><img loading="lazy" src="http://www.iecb.u-bordeaux.fr/images/stories/logos/logo_cnanogso.jpg" data-is-external-image="true"  width="191" height="68" border="0"></a></p>
+<ul>
+<li><a href="http://www.iecb.u-bordeaux.fr/clubarn/Club_ARN/Homepage.html" target="_blank" rel="noopener">Club ARN de Bordeaux</a></li>
+<li><a href="http://www.ifr66.u-bordeaux2.fr/pages/meccaino.html" target="_blank" rel="noopener">Club MECCAiNO</a></li>
+<li><a href="http://www.u-bordeaux1.fr/cnano/" target="_blank" rel="noopener">C'nano Grand Sud-Ouest</a></li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Birgit Habenstein recipient of the CNRS Momentum</title>
+        <author>
+            <name>IECB Web Publisher</name>
+        </author>
+        <link href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/birgit-habenstein-recipient-of-the-cnrs-momentum/"/>
+        <id>https://iecb-u-bordeaux.github.io/website-publii-cms-repo/birgit-habenstein-recipient-of-the-cnrs-momentum/</id>
+            <category term="ÂÂ NMR"/>
+            <category term="Momentum"/>
+            <category term="Molecular"/>
+            <category term="CNRS"/>
+
+        <updated>2020-08-13T02:51:07+02:00</updated>
+            <summary>
+                <![CDATA[
+                    <figure class="post__image post__image--left"><img loading="lazy"  src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/19/avatar-bhabenstein.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/19/responsive/avatar-bhabenstein-xs.jpg 300w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/19/responsive/avatar-bhabenstein-sm.jpg 480w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/19/responsive/avatar-bhabenstein-md.jpg 768w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/19/responsive/avatar-bhabenstein-lg.jpg 1024w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/19/responsive/avatar-bhabenstein-xl.jpg 1360w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/19/responsive/avatar-bhabenstein-2xl.jpg 1600w"  alt="Birgit Habenstein" width="278" height="284"></figure>
+<p>Birgit Habenstein, CNRS researcher at the IECB in the team «ÂÂ NMR of Molecular Assemblies" has been awarded the CNRS-Momentum funding for her project "Molecular Mechanisms of the force generation during bacterial division at the atomic level». She will use NMR spectroscopy to study processes linked to bacterial division at an atomic resolution.</p>
+<p><br>CNRS-Momentum is a recent national program to provide the financial basis for young researchers to conduct their independent and ambitious projects. From 383 eligible projects, Birgit's project has been selected as one of the 20 projects to benefit from the 3-year funding.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--left"><img loading="lazy"  src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/19/avatar-bhabenstein.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/19/responsive/avatar-bhabenstein-xs.jpg 300w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/19/responsive/avatar-bhabenstein-sm.jpg 480w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/19/responsive/avatar-bhabenstein-md.jpg 768w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/19/responsive/avatar-bhabenstein-lg.jpg 1024w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/19/responsive/avatar-bhabenstein-xl.jpg 1360w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/19/responsive/avatar-bhabenstein-2xl.jpg 1600w"  alt="Birgit Habenstein" width="278" height="284"></figure>
+<p>Birgit Habenstein, CNRS researcher at the IECB in the team «ÂÂ NMR of Molecular Assemblies" has been awarded the CNRS-Momentum funding for her project "Molecular Mechanisms of the force generation during bacterial division at the atomic level». She will use NMR spectroscopy to study processes linked to bacterial division at an atomic resolution.</p>
+<p><br>CNRS-Momentum is a recent national program to provide the financial basis for young researchers to conduct their independent and ambitious projects. From 383 eligible projects, Birgit's project has been selected as one of the 20 projects to benefit from the 3-year funding.</p>
+
+<p><a href="http://www.cnrs.fr/fr/cnrsinfo/les-laureats-2018-de-lappel-projets-cnrs-momentum">Link &gt; CNRS Momentum 2018</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Control and dynamics of cell division</title>
+        <author>
+            <name>IECB Web Publisher</name>
+        </author>
+        <link href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/22control-and-dynamics-of-cell-division/"/>
+        <id>https://iecb-u-bordeaux.github.io/website-publii-cms-repo/22control-and-dynamics-of-cell-division/</id>
+            <category term="DNA"/>
+            <category term="Chromosm"/>
+            <category term="Cell Division"/>
+            <category term="Cell"/>
+
+        <updated>2020-08-13T02:51:07+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/18/pexels-hero-lab-2-Ration_25-10.jpg" alt="The Royou Lab" />
+                    <div class="post__entry u-inner">
+<h2 id="summary">Summary</h2>
+<p class="msg msg--success">The mechanisms that safeguard cells against aneuploidy are of great interest as aneuploidy contributes to tumorigenesis. Using live imaging approaches, we have identified two novel mechanisms that permit the accurate transmission of chromosomes during cell division. The first mechanism involves the faithful segregation of damaged chromosomes. Our studies reveal that chromosome fragments segregate properly to opposite poles. This poleward motion is mediated through DNA tethers that connect the chromosome fragments. The second mechanism involves the coordination of chromosome segregation with cell cleavage. We found that cells can adapt to a four-fold increase in chromatid length by elongating transiently during anaphase. This mechanism ensures the clearance of chromatids from the cleavage plane at the appropriate time during cytokinesis, thus preserving genome integrity.</p>
+<h3 id="activity-report">Activity report</h3>
+<p>Mitosis is the final stage of the cell cycle where a copy of the duplicated genome condensed into chromosomes is transmitted to each daughter cell. Failure to do so produces daughter cells with an inappropriate genome content, also called aneuploidy. The mechanisms that safeguard cells against aneuploidy are of great interest as aneuploidy contributes to tumorigenesis. Our group has identified two novel mechanisms that permit the accurate transmission of chromosomes during cell division. The first mechanism involves the faithful segregation of damaged chromosomes. The second mechanism coordinates chromosome segregation with cell cleavage.</p>
+<h3 id="mechanism-that-permits-faithful-transmission-of-broken-chromosomes">Mechanism that permits faithful transmission of broken chromosomes</h3>
+<p>Correct transmission of the genetic material requires proper chromosome attachment to spindle microtubules. The centromere of the chromosome serves as an assembly site for a multi-protein structure called the kinetochore, the functional unit that binds the microtubules. The centromere is, thus, essential for proper chromosome segregation. However, we have recently identified a mechanism by which fragments of broken chromosomes lacking centromeres segregate properly. This is achieved through a novel chromatin conformation that tethers the acentric chromosome fragments to their centric partners. The efficient segregation of the broken chromosome fragments depends on the spindle assembly checkpoint component BubR1. BubR1 localizes on the kinetochore until anaphase onset and accumulates on the “tether”, the chromatin structure that attaches the chromosome fragments, throughout mitosis. To determine how BubR1 recruitment to the “tether” is regulated, we monitored dividing cells expressing BubR1 constructs lacking specific domains. We found that the conserved Bub3-Binding Domain and more specifically the Glutamate 481 (E481) are required for BubR1 localization on the tether. Since E481 is essential for BubR1 interaction with Bub3 and its localization on the kinetochore, we investigated whether Bub3 localizes to the tether and more generally whether the “tether” is an assembly site for other kinetochore proteins (Figure 1). We analysed the localization of five core kinetochore proteins and did not detect any signal on the “tether”. In contrast, Bub3 accumulated on the “tether” throughout mitosis. Bub3 and BubR1 were inter-dependent for their localization on the kinetochore and tether. In addition, we found that Cdc20, a key subunit of the APC/C, was recruited on the “tether” in a BubR1 and Bub3 dependent manner throughout mitosis (Figure 1). The expression of a BubR1 mutant lacking the KEN box, a motif required for Cdc20 binding to BubR1, exhibited severe defects in broken chromosome segregation and was associated with a lack of Cdc20 localization on the tether. To test if BubR1 inhibited locally the APC/C on the “tether”, we constructed a synthetic APC/C substrate. To do so, we fused the N terminal sequence of Cyclin B to GFP::Bub3 (DB-Bub3) and monitored its dynamics in the presence of broken chromosomes. We found that DB-Bub3 persisted on the “tether” during early anaphase in a BubR1 KEN box dependent manner. All together these results favour a model in which Bub3 recruits BubR1 on broken chromosomes, which, in turn, inhibits the APC/C locally by sequestering Cdc20 throughout mitosis. This local APC/C inhibition during anaphase preserves key components important for maintaining the broken fragments tethered.</p>
+</div>
+<figure class="post__image post__image--center"><figure class="is-loaded"><img loading="lazy"  src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/18/pix-royou_fig1-2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/18/responsive/pix-royou_fig1-2-xs.jpg 300w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/18/responsive/pix-royou_fig1-2-sm.jpg 480w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/18/responsive/pix-royou_fig1-2-md.jpg 768w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/18/responsive/pix-royou_fig1-2-lg.jpg 1024w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/18/responsive/pix-royou_fig1-2-xl.jpg 1360w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/18/responsive/pix-royou_fig1-2-2xl.jpg 1600w"  sizes="(max-width: 48em) 100vw, 768px" srcset="file:///C:/Users/LEM/Documents/IECB-U-Bordeaux/Publii/iecb-pubii-template2/preview/media/posts/3/responsive/pix-royou_fig1-xs.jpg 300w, file:///C:/Users/LEM/Documents/IECB-U-Bordeaux/Publii/iecb-pubii-template2/preview/media/posts/3/responsive/pix-royou_fig1-sm.jpg 480w, file:///C:/Users/LEM/Documents/IECB-U-Bordeaux/Publii/iecb-pubii-template2/preview/media/posts/3/responsive/pix-royou_fig1-md.jpg 768w, file:///C:/Users/LEM/Documents/IECB-U-Bordeaux/Publii/iecb-pubii-template2/preview/media/posts/3/responsive/pix-royou_fig1-lg.jpg 1024w, file:///C:/Users/LEM/Documents/IECB-U-Bordeaux/Publii/iecb-pubii-template2/preview/media/posts/3/responsive/pix-royou_fig1-xl.jpg 1360w, file:///C:/Users/LEM/Documents/IECB-U-Bordeaux/Publii/iecb-pubii-template2/preview/media/posts/3/responsive/pix-royou_fig1-2xl.jpg 1600w" alt="" width="1013" height="800"></figure></figure>
+<div class="post__entry u-inner">
+<h3 id="mechanism-that-coordinates-chromosome-segregation-with-cell-cleavage">Mechanism that coordinates chromosome segregation with cell cleavage</h3>
+<p>Chromosome segregation must be coordinated with cell division to ensure proper transmission of the genetic material into daughter cells. Our group identified a novel mechanism by which Drosophila neuronal stem cells coordinate chromosome segregation with cell division. Cells adapt to the presence of chromatid arms at the cleavage site by transiently, but dramatically, elongating during anaphase, thus increasing the rate at which the long chromatids clear the cleavage plane. This adaptive elongation depends on myosin activity and the Rho Guanine-nucleotide exchange factor, Pebble. To understand how the cell deforms when chromatids are present at the cleavage plane, we studied the dynamics of myosin during cytokinesis in cells with or without long chromosomes. Surprisingly, halfway through cytokinesis, myosin undergoes flux from the cytokinetic ring and invades the entire cortex. In control cells, myosin efflux is transient, as myosin dissociates from the cortex upon reformation of the nuclear envelope. However, cells with long chromatids exhibit an extended period of myosin efflux associated with a delay in nuclear envelope formation (NEF). During this prolonged myosin efflux, cortical myosin forms extra rings that deform the nascent daughter cells, permitting the clearance of chromatids from the cleavage plane. We have previously shown that adaptive cell elongation depends on Pebble. Consistently myosin does not undergo efflux in pebble mutant cells with or without long chromatids. Since Pebble accumulates in the nucleus at telophase at the time myosin dissociates from the cortex, we hypothesized that the translocation of Pebble into the nucleus induces myosin dissociation from the cortex via the inactivation of RhoA. Consistently, the expression of a pebble mutant lacking a nuclear location signal induces prolonged myosin efflux associated with cell elongation and extensive blebbing, even in the absence of long chromatid arms at the cleavage site. We propose that the coordination between chromatid segregation, myosin efflux and NEF allows adaptive cell elongation to clear chromatid arms from the cleavage plane before the completion of cytokinesis. </p>
+</div>
+<figure class="post__image post__image--center"><figure class="is-loaded"><img loading="lazy"  src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/18/pix-royou_fig2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/18/responsive/pix-royou_fig2-xs.jpg 300w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/18/responsive/pix-royou_fig2-sm.jpg 480w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/18/responsive/pix-royou_fig2-md.jpg 768w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/18/responsive/pix-royou_fig2-lg.jpg 1024w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/18/responsive/pix-royou_fig2-xl.jpg 1360w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/18/responsive/pix-royou_fig2-2xl.jpg 1600w"  sizes="(max-width: 48em) 100vw, 768px" srcset="file:///C:/Users/LEM/Documents/IECB-U-Bordeaux/Publii/iecb-pubii-template2/preview/media/posts/3/responsive/pix-royou_fig2-xs.jpg 300w, file:///C:/Users/LEM/Documents/IECB-U-Bordeaux/Publii/iecb-pubii-template2/preview/media/posts/3/responsive/pix-royou_fig2-sm.jpg 480w, file:///C:/Users/LEM/Documents/IECB-U-Bordeaux/Publii/iecb-pubii-template2/preview/media/posts/3/responsive/pix-royou_fig2-md.jpg 768w, file:///C:/Users/LEM/Documents/IECB-U-Bordeaux/Publii/iecb-pubii-template2/preview/media/posts/3/responsive/pix-royou_fig2-lg.jpg 1024w, file:///C:/Users/LEM/Documents/IECB-U-Bordeaux/Publii/iecb-pubii-template2/preview/media/posts/3/responsive/pix-royou_fig2-xl.jpg 1360w, file:///C:/Users/LEM/Documents/IECB-U-Bordeaux/Publii/iecb-pubii-template2/preview/media/posts/3/responsive/pix-royou_fig2-2xl.jpg 1600w" alt="" width="454" height="200"></figure></figure>
+<div class="post__entry u-inner">
+<h4 id="selected-publications">Selected publications</h4>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/18/pexels-hero-lab-2-Ration_25-10.jpg" alt="The Royou Lab" />
+                <div class="post__entry u-inner">
+<h2 id="summary">Summary</h2>
+<p class="msg msg--success">The mechanisms that safeguard cells against aneuploidy are of great interest as aneuploidy contributes to tumorigenesis. Using live imaging approaches, we have identified two novel mechanisms that permit the accurate transmission of chromosomes during cell division. The first mechanism involves the faithful segregation of damaged chromosomes. Our studies reveal that chromosome fragments segregate properly to opposite poles. This poleward motion is mediated through DNA tethers that connect the chromosome fragments. The second mechanism involves the coordination of chromosome segregation with cell cleavage. We found that cells can adapt to a four-fold increase in chromatid length by elongating transiently during anaphase. This mechanism ensures the clearance of chromatids from the cleavage plane at the appropriate time during cytokinesis, thus preserving genome integrity.</p>
+<h3 id="activity-report">Activity report</h3>
+<p>Mitosis is the final stage of the cell cycle where a copy of the duplicated genome condensed into chromosomes is transmitted to each daughter cell. Failure to do so produces daughter cells with an inappropriate genome content, also called aneuploidy. The mechanisms that safeguard cells against aneuploidy are of great interest as aneuploidy contributes to tumorigenesis. Our group has identified two novel mechanisms that permit the accurate transmission of chromosomes during cell division. The first mechanism involves the faithful segregation of damaged chromosomes. The second mechanism coordinates chromosome segregation with cell cleavage.</p>
+<h3 id="mechanism-that-permits-faithful-transmission-of-broken-chromosomes">Mechanism that permits faithful transmission of broken chromosomes</h3>
+<p>Correct transmission of the genetic material requires proper chromosome attachment to spindle microtubules. The centromere of the chromosome serves as an assembly site for a multi-protein structure called the kinetochore, the functional unit that binds the microtubules. The centromere is, thus, essential for proper chromosome segregation. However, we have recently identified a mechanism by which fragments of broken chromosomes lacking centromeres segregate properly. This is achieved through a novel chromatin conformation that tethers the acentric chromosome fragments to their centric partners. The efficient segregation of the broken chromosome fragments depends on the spindle assembly checkpoint component BubR1. BubR1 localizes on the kinetochore until anaphase onset and accumulates on the “tether”, the chromatin structure that attaches the chromosome fragments, throughout mitosis. To determine how BubR1 recruitment to the “tether” is regulated, we monitored dividing cells expressing BubR1 constructs lacking specific domains. We found that the conserved Bub3-Binding Domain and more specifically the Glutamate 481 (E481) are required for BubR1 localization on the tether. Since E481 is essential for BubR1 interaction with Bub3 and its localization on the kinetochore, we investigated whether Bub3 localizes to the tether and more generally whether the “tether” is an assembly site for other kinetochore proteins (Figure 1). We analysed the localization of five core kinetochore proteins and did not detect any signal on the “tether”. In contrast, Bub3 accumulated on the “tether” throughout mitosis. Bub3 and BubR1 were inter-dependent for their localization on the kinetochore and tether. In addition, we found that Cdc20, a key subunit of the APC/C, was recruited on the “tether” in a BubR1 and Bub3 dependent manner throughout mitosis (Figure 1). The expression of a BubR1 mutant lacking the KEN box, a motif required for Cdc20 binding to BubR1, exhibited severe defects in broken chromosome segregation and was associated with a lack of Cdc20 localization on the tether. To test if BubR1 inhibited locally the APC/C on the “tether”, we constructed a synthetic APC/C substrate. To do so, we fused the N terminal sequence of Cyclin B to GFP::Bub3 (DB-Bub3) and monitored its dynamics in the presence of broken chromosomes. We found that DB-Bub3 persisted on the “tether” during early anaphase in a BubR1 KEN box dependent manner. All together these results favour a model in which Bub3 recruits BubR1 on broken chromosomes, which, in turn, inhibits the APC/C locally by sequestering Cdc20 throughout mitosis. This local APC/C inhibition during anaphase preserves key components important for maintaining the broken fragments tethered.</p>
+</div>
+<figure class="post__image post__image--center"><figure class="is-loaded"><img loading="lazy"  src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/18/pix-royou_fig1-2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/18/responsive/pix-royou_fig1-2-xs.jpg 300w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/18/responsive/pix-royou_fig1-2-sm.jpg 480w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/18/responsive/pix-royou_fig1-2-md.jpg 768w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/18/responsive/pix-royou_fig1-2-lg.jpg 1024w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/18/responsive/pix-royou_fig1-2-xl.jpg 1360w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/18/responsive/pix-royou_fig1-2-2xl.jpg 1600w"  sizes="(max-width: 48em) 100vw, 768px" srcset="file:///C:/Users/LEM/Documents/IECB-U-Bordeaux/Publii/iecb-pubii-template2/preview/media/posts/3/responsive/pix-royou_fig1-xs.jpg 300w, file:///C:/Users/LEM/Documents/IECB-U-Bordeaux/Publii/iecb-pubii-template2/preview/media/posts/3/responsive/pix-royou_fig1-sm.jpg 480w, file:///C:/Users/LEM/Documents/IECB-U-Bordeaux/Publii/iecb-pubii-template2/preview/media/posts/3/responsive/pix-royou_fig1-md.jpg 768w, file:///C:/Users/LEM/Documents/IECB-U-Bordeaux/Publii/iecb-pubii-template2/preview/media/posts/3/responsive/pix-royou_fig1-lg.jpg 1024w, file:///C:/Users/LEM/Documents/IECB-U-Bordeaux/Publii/iecb-pubii-template2/preview/media/posts/3/responsive/pix-royou_fig1-xl.jpg 1360w, file:///C:/Users/LEM/Documents/IECB-U-Bordeaux/Publii/iecb-pubii-template2/preview/media/posts/3/responsive/pix-royou_fig1-2xl.jpg 1600w" alt="" width="1013" height="800"></figure></figure>
+<div class="post__entry u-inner">
+<h3 id="mechanism-that-coordinates-chromosome-segregation-with-cell-cleavage">Mechanism that coordinates chromosome segregation with cell cleavage</h3>
+<p>Chromosome segregation must be coordinated with cell division to ensure proper transmission of the genetic material into daughter cells. Our group identified a novel mechanism by which Drosophila neuronal stem cells coordinate chromosome segregation with cell division. Cells adapt to the presence of chromatid arms at the cleavage site by transiently, but dramatically, elongating during anaphase, thus increasing the rate at which the long chromatids clear the cleavage plane. This adaptive elongation depends on myosin activity and the Rho Guanine-nucleotide exchange factor, Pebble. To understand how the cell deforms when chromatids are present at the cleavage plane, we studied the dynamics of myosin during cytokinesis in cells with or without long chromosomes. Surprisingly, halfway through cytokinesis, myosin undergoes flux from the cytokinetic ring and invades the entire cortex. In control cells, myosin efflux is transient, as myosin dissociates from the cortex upon reformation of the nuclear envelope. However, cells with long chromatids exhibit an extended period of myosin efflux associated with a delay in nuclear envelope formation (NEF). During this prolonged myosin efflux, cortical myosin forms extra rings that deform the nascent daughter cells, permitting the clearance of chromatids from the cleavage plane. We have previously shown that adaptive cell elongation depends on Pebble. Consistently myosin does not undergo efflux in pebble mutant cells with or without long chromatids. Since Pebble accumulates in the nucleus at telophase at the time myosin dissociates from the cortex, we hypothesized that the translocation of Pebble into the nucleus induces myosin dissociation from the cortex via the inactivation of RhoA. Consistently, the expression of a pebble mutant lacking a nuclear location signal induces prolonged myosin efflux associated with cell elongation and extensive blebbing, even in the absence of long chromatid arms at the cleavage site. We propose that the coordination between chromatid segregation, myosin efflux and NEF allows adaptive cell elongation to clear chromatid arms from the cleavage plane before the completion of cytokinesis. </p>
+</div>
+<figure class="post__image post__image--center"><figure class="is-loaded"><img loading="lazy"  src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/18/pix-royou_fig2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/18/responsive/pix-royou_fig2-xs.jpg 300w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/18/responsive/pix-royou_fig2-sm.jpg 480w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/18/responsive/pix-royou_fig2-md.jpg 768w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/18/responsive/pix-royou_fig2-lg.jpg 1024w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/18/responsive/pix-royou_fig2-xl.jpg 1360w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/18/responsive/pix-royou_fig2-2xl.jpg 1600w"  sizes="(max-width: 48em) 100vw, 768px" srcset="file:///C:/Users/LEM/Documents/IECB-U-Bordeaux/Publii/iecb-pubii-template2/preview/media/posts/3/responsive/pix-royou_fig2-xs.jpg 300w, file:///C:/Users/LEM/Documents/IECB-U-Bordeaux/Publii/iecb-pubii-template2/preview/media/posts/3/responsive/pix-royou_fig2-sm.jpg 480w, file:///C:/Users/LEM/Documents/IECB-U-Bordeaux/Publii/iecb-pubii-template2/preview/media/posts/3/responsive/pix-royou_fig2-md.jpg 768w, file:///C:/Users/LEM/Documents/IECB-U-Bordeaux/Publii/iecb-pubii-template2/preview/media/posts/3/responsive/pix-royou_fig2-lg.jpg 1024w, file:///C:/Users/LEM/Documents/IECB-U-Bordeaux/Publii/iecb-pubii-template2/preview/media/posts/3/responsive/pix-royou_fig2-xl.jpg 1360w, file:///C:/Users/LEM/Documents/IECB-U-Bordeaux/Publii/iecb-pubii-template2/preview/media/posts/3/responsive/pix-royou_fig2-2xl.jpg 1600w" alt="" width="454" height="200"></figure></figure>
+<div class="post__entry u-inner">
+<h4 id="selected-publications">Selected publications</h4>
+
+<ul>
+<li><em>Derive N*, Landmann C*, Montembault E, Claverie MC, Pierre-Elies P, Goutte-Gattat D, Founounou N, McCusker D and Royou A (2015) Bub3/BubR1-dependent sequestration of Cdc20Fizzy at DNA breaks facilitates the correct segregation of broken chromosomes. J Cell Biol. 211(3):517-32. * denotes equal contribution </em></li>
+<li><em>Jose M, Tollis S, Nair D, Mitteau R, Velours C, Massoni-Laporte A, Royou A, Sibarita JB, McCusker D (2015) A quantitative imaging-based screen reveals the exocyst as a network hub connecting endocytosis and exocytosis. Mol. Biol. Cell. 26(13):2519-34 </em></li>
+<li><em>Kotadia, S*, Montembault, E*, Sullivan, W and Royou A (2012) Cell elongation is an adaptive response for clearing long chromatid arms from the cleavage plane. J Cell Biol. 199(5):745-53. * denotes equal contribution, # denotes corresponding author </em></li>
+<li><em>McCusker D*, Royou A, Velours C, Kellogg D* (2012) Cdk1-dependent control of membrane trafficking dynamics. Mol Biol Cell. Sep;23(17):3336-47. * denotes equal contribution. </em></li>
+<li><em>Royou, A., Gagou, M., Karess, R., D., Sullivan, W. (2010) BubR1 and Polo-coated DNA tethers facilitate the segregation of acentric chromatids. Cell 140(2) : 235-45. </em></li>
+<li><em>Royou, A., McCusker, D., Kellogg, D., Sullivan, W. (2008) Grapes(Chk1) prevents nuclear Cdk1 activation by delaying Cyclin B nuclear accumulation. J. Cell Biol. 183(1):63-75</em><br><em>Riggs, B., Fasulo, B., Royou, A., Mische, S., Cao, J., Hays, TS., Sullivan, W. (2007) The concentration of Nuf, a Rab11 effector, at the microtubule-organizing center is cell cycle regulated, dynein-dependent, and coincides with furrow formation. Mol. Biol. Cell. 18(9) : 3313-22 </em></li>
+<li><em>Chodagam, S., Royou, A., Whitfield, W., Karess, R., Raff, JW. (2005) The centrosomal protein CP190 regulates myosin function during early Drosophila development. Curr. Biol. 15 (14) : 1308-13 </em></li>
+<li><em>Royou, A., Macias, H., Sullivan, W. (2005) The Drosophila Grp/Chk1 DNA damage checkpoint controls entry into anaphase. Curr. Biol. 15(4) :334-9</em><br><em>Silva, E., Tiong, S., Pedersen, M., Homola, E., Royou, A. Fasulo, B. Siriaco, G. Campbell, S.D. (2004) ATM is required for telomere maintenance and chromosome stability during Drosophila development. Curr. Biol. 14(15) :1341-7 </em></li>
+<li><em>Royou, A., Field, C., Sisson, J. Sullivan, W., Karess, R. (2004) Reassessing the role and dynamics of nonmuscle myosin II during furrow formation and cellularization in the early Drosophila embryo. Mol. Biol. Cell. 15: 838-50 </em></li>
+<li><em>Royou, A., Sullivan, W., Karess, R. (2002) Cortical recruitment of non muscle myosin II in early syncytial Drosophila embryos: its role in nuclear axial expansion and its regulation by Cdc2 activity. J. Cell. Biol. 158(1):127-37</em></li>
+</ul>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>IECB Logo Graphic Kit 2020</title>
+        <author>
+            <name>IECB Web Publisher</name>
+        </author>
+        <link href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/iecb-graphic-materials-2020/"/>
+        <id>https://iecb-u-bordeaux.github.io/website-publii-cms-repo/iecb-graphic-materials-2020/</id>
+            <category term="Logo"/>
+            <category term="Graphic Kit"/>
+
+        <updated>2020-08-13T02:51:07+02:00</updated>
+            <summary>
+                <![CDATA[
+                    <h2>IECB Logo XL</h2>
+<figure class="post__image"><img loading="lazy"  src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/17/IECB-logo-XL.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/17/responsive/IECB-logo-XL-xs.jpg 300w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/17/responsive/IECB-logo-XL-sm.jpg 480w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/17/responsive/IECB-logo-XL-md.jpg 768w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/17/responsive/IECB-logo-XL-lg.jpg 1024w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/17/responsive/IECB-logo-XL-xl.jpg 1360w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/17/responsive/IECB-logo-XL-2xl.jpg 1600w"  alt="" width="438" height="151"></figure>
+<p>Download the Logo :</p>
+<ul>
+<li>For <a href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/IECB--logo--XL.jpg" target="_blank" rel="noopener noreferrer">Web Pixels &gt; JPG </a></li>
+<li>For <a href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/IECB--logo--XL-Vector.svg" target="_blank" rel="noopener noreferrer">Print Vector &gt; SVG</a></li>
+</ul>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>IECB Logo XL</h2>
+<figure class="post__image"><img loading="lazy"  src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/17/IECB-logo-XL.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/17/responsive/IECB-logo-XL-xs.jpg 300w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/17/responsive/IECB-logo-XL-sm.jpg 480w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/17/responsive/IECB-logo-XL-md.jpg 768w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/17/responsive/IECB-logo-XL-lg.jpg 1024w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/17/responsive/IECB-logo-XL-xl.jpg 1360w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/17/responsive/IECB-logo-XL-2xl.jpg 1600w"  alt="" width="438" height="151"></figure>
+<p>Download the Logo :</p>
+<ul>
+<li>For <a href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/IECB--logo--XL.jpg" target="_blank" rel="noopener noreferrer">Web Pixels &gt; JPG </a></li>
+<li>For <a href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/IECB--logo--XL-Vector.svg" target="_blank" rel="noopener noreferrer">Print Vector &gt; SVG</a></li>
+</ul>
+
+<h2>IECB Logo M</h2>
+<figure class="post__image"><img loading="lazy"  src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/17/IECB-logo-M.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/17/responsive/IECB-logo-M-xs.jpg 300w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/17/responsive/IECB-logo-M-sm.jpg 480w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/17/responsive/IECB-logo-M-md.jpg 768w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/17/responsive/IECB-logo-M-lg.jpg 1024w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/17/responsive/IECB-logo-M-xl.jpg 1360w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/17/responsive/IECB-logo-M-2xl.jpg 1600w"  alt="" width="140" height="140"></figure>
+<p>Download the Logo :</p>
+<ul>
+<li>For <a href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/IECB--logo--M.jpg" target="_blank" rel="noopener noreferrer">Web Pixels &gt; JPG</a></li>
+<li>For <a href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/IECB--logo--M-Vector.svg" target="_blank" rel="noopener noreferrer">Print Vector &gt; SVG</a></li>
+</ul>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>IECB Directory Contacts</title>
+        <author>
+            <name>IECB Web Publisher</name>
+        </author>
+        <link href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/iecb-directory-contacts/"/>
+        <id>https://iecb-u-bordeaux.github.io/website-publii-cms-repo/iecb-directory-contacts/</id>
+            <category term="Directory"/>
+
+        <updated>2020-08-13T02:51:07+02:00</updated>
+            <summary>
+                <![CDATA[
+                     Derek Mac CUSKERGroup Leader E-mail: d.mc-cusker@iecb.u-bordeaux.fr Phone: 05 40 00 30 21 Website Team Group Leader E-mail: janedoe@iecb.u-bordeaux.fr Phone: 05 40 00 XX XX Website Team Group Leader E-mail: a.royou@iecb.u-bordeaux.fr Phone: 05 40 00 63 06 / Click TAB for CONTINUE Website Team 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2> </h2>
+<table class=" align-left" style="border-collapse: collapse; width: 700px; height: auto;" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr class="sectiontableentry1">
+<td style="width: 140px; height: auto;">
+<h4><figure class="post__image"><img loading="lazy"  style="width: 100px; height: 100px; border-radius: 50%;" src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/16/avatar-dmccusker-2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/16/responsive/avatar-dmccusker-2-xs.jpg 300w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/16/responsive/avatar-dmccusker-2-sm.jpg 480w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/16/responsive/avatar-dmccusker-2-md.jpg 768w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/16/responsive/avatar-dmccusker-2-lg.jpg 1024w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/16/responsive/avatar-dmccusker-2-xl.jpg 1360w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/16/responsive/avatar-dmccusker-2-2xl.jpg 1600w"  alt=""></figure></h4>
+</td>
+<td style="height: 250px; width: 560px;">
+<h4>Derek Mac CUSKER</h4>
+<p>Group Leader<br>E-mail: <a href="mailto:d.mc-cusker@iecb.u-bordeaux.fr">d.mc-cusker@iecb.u-bordeaux.fr</a><br>Phone: 05 40 00 30 21</p>
+<p><a href="http://www.iecb.u-bordeaux.fr/teams/MCCUSKER/McCuskerlab/Welcome.html" class="btn btn-primary">Website Team</a></p>
+</td>
+</tr>
+<tr class="sectiontableentry1">
+<td style="width: 140px; height: auto;"><figure class="post__image"><img loading="lazy"  style="width: 100px; height: 100px; border-radius: 50%;" src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/16/avatar-jl-mergny-2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/16/responsive/avatar-jl-mergny-2-xs.jpg 300w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/16/responsive/avatar-jl-mergny-2-sm.jpg 480w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/16/responsive/avatar-jl-mergny-2-md.jpg 768w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/16/responsive/avatar-jl-mergny-2-lg.jpg 1024w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/16/responsive/avatar-jl-mergny-2-xl.jpg 1360w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/16/responsive/avatar-jl-mergny-2-2xl.jpg 1600w"  alt=""></figure></td>
+<td style="height: 250px; width: 560px;">
+<h4>Jane Doe</h4>
+<p>Group Leader<br>E-mail: <a href="mailto:a.royou@iecb.u-bordeaux.fr">janedoe@iecb.u-bordeaux.fr</a><br>Phone: 05 40 00 XX XX</p>
+<p><a href="https://royoulab.info/" class="btn btn-primary">Website Team</a></p>
+</td>
+</tr>
+<tr class="sectiontableentry1">
+<td style="width: 140px; height: auto;"><figure class="post__image"><img loading="lazy"  style="width: 100px; height: 100px; border-radius: 50%;" src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/16/avatar-aroyou-3.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/16/responsive/avatar-aroyou-3-xs.jpg 300w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/16/responsive/avatar-aroyou-3-sm.jpg 480w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/16/responsive/avatar-aroyou-3-md.jpg 768w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/16/responsive/avatar-aroyou-3-lg.jpg 1024w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/16/responsive/avatar-aroyou-3-xl.jpg 1360w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/16/responsive/avatar-aroyou-3-2xl.jpg 1600w"  alt="Face-ID"></figure></td>
+<td style="height: 250px; width: 560px;">
+<h4>Anne Royou</h4>
+<p>Group Leader<br>E-mail: <a href="mailto:a.royou@iecb.u-bordeaux.fr">a.royou@iecb.u-bordeaux.fr</a><br>Phone: 05 40 00 63 06  / Click TAB for CONTINUE</p>
+<p><a href="https://royoulab.info/" class="btn btn-primary">Website Team</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Contact US</title>
+        <author>
+            <name>IECB Web Publisher</name>
+        </author>
+        <link href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/contact-us/"/>
+        <id>https://iecb-u-bordeaux.github.io/website-publii-cms-repo/contact-us/</id>
+            <category term="Contact"/>
+
+        <updated>2020-08-13T02:51:07+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/15/Pix-IECB-Contact.jpg" alt="" />
+                    <h3><figure class="post__image"><img loading="lazy"  src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/15/IECB-logo-XL.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/15/responsive/IECB-logo-XL-xs.jpg 300w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/15/responsive/IECB-logo-XL-sm.jpg 480w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/15/responsive/IECB-logo-XL-md.jpg 768w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/15/responsive/IECB-logo-XL-lg.jpg 1024w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/15/responsive/IECB-logo-XL-xl.jpg 1360w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/15/responsive/IECB-logo-XL-2xl.jpg 1600w"  alt="IECB Logo" width="630" height="217"></figure></h3>
+<h3>Contact US</h3>
+<p class="msg msg--success">IECB<br><strong>Institut Européen de Chimie et Biologie<br></strong>2 rue Robert Escarpit, 33607 PESSAC<br>Tel : +33 (5) 40 00 30 38<br>Fax : +33 (5) 40 00 30 68</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/15/Pix-IECB-Contact.jpg" alt="" />
+                <h3><figure class="post__image"><img loading="lazy"  src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/15/IECB-logo-XL.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/15/responsive/IECB-logo-XL-xs.jpg 300w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/15/responsive/IECB-logo-XL-sm.jpg 480w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/15/responsive/IECB-logo-XL-md.jpg 768w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/15/responsive/IECB-logo-XL-lg.jpg 1024w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/15/responsive/IECB-logo-XL-xl.jpg 1360w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/15/responsive/IECB-logo-XL-2xl.jpg 1600w"  alt="IECB Logo" width="630" height="217"></figure></h3>
+<h3>Contact US</h3>
+<p class="msg msg--success">IECB<br><strong>Institut Européen de Chimie et Biologie<br></strong>2 rue Robert Escarpit, 33607 PESSAC<br>Tel : +33 (5) 40 00 30 38<br>Fax : +33 (5) 40 00 30 68</p>
+
+<h3><strong>Opening hours<br></strong></h3>
+<p>Monday to Friday, 09.00 to 12.30 and 13.30 to 17.00</p>
+
+<h3><strong>Public transports</strong></h3>
+<p>Tram : line B - stop at "Doyen Brus"<br>Bus : lines 35, 35 Exp, S11 - stop at "Village 2"</p>
+
+<h3>Download the leaflet map</h3>
+<p>Download the practical <a href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/IECB--Practical--Guide.pdf" target="_blank" rel="noopener noreferrer">guide to come to IECB here</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Welcome to IECB</title>
+        <author>
+            <name>IECB Web Publisher</name>
+        </author>
+        <link href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/welcome-to-iecb/"/>
+        <id>https://iecb-u-bordeaux.github.io/website-publii-cms-repo/welcome-to-iecb/</id>
+            <category term="Homepage"/>
+
+        <updated>2020-08-13T02:51:07+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/14/Man-Labo-Ratio-25_10.jpg" alt="" />
+                    <h3>Project leader positions at IECB – Bordeaux 2020</h3>
+<p>The European Institute of Chemistry and Biology, <i>Institut Européen de Chimie et Biologie </i>(IECB, www.iecb.u-bordeaux.fr) is a research team incubator placed under the joint authority of the University of Bordeaux, CNRS and INSERM. It benefits from the strong scientific environment of the Bordeaux campus in the Southwest of France. The Institute hosts 16 research groups working at the interface of chemistry and biology in a contemporary building (9700 sq meters), equipped with state-of-the-art instruments and facilities. The scientific policy of the Institute is under the responsibility of an International Scientific Advisory Board, which selects new group leaders.</p>
+<p><strong>IECB is looking for outstanding candidates who will complement the existing strengths of the Institute, in the broad fields of chemistry</strong> (organic, bio-inorganic, supramolecular, biological, bio-inspired nanotechnology,…) <strong>and biology</strong> (molecular and cellular biology, molecular biophysics, structural biology,…). We are particularly keen to host new teams in the fields of synthetic chemistry and molecular modeling, but applicants from all fields are welcome to apply.</p>
+<p>Applicants are expected to propose creative projects and will have full autonomy to manage their group. They should also be open to interdisciplinary collaborations with other groups of the Institute and other laboratories of the Bordeaux campus. Successful candidates will have access to IECB’s facilities in structural biology, chemistry, molecular and cellular biology. Candidates are primarily expected to be at an early stage of their research career (with 2-10 years of post-doctoral experience) but more senior applications may be considered as well. The candidates will be asked to apply for start-up funding such as the ATIP-Avenir programme, FRM "amorçage", ANR support or ERC, and will be supported to secure a permanent research position in France if they don’t already hold one. Applicants should be fluent in English. Knowledge of French is not mandatory.</p>
+<p>Applicants are invited to submit - prior to <strong>December 31, 2019 </strong>– a cover letter, an <strong>extended biosketch</strong> explaining the impact of past research (max. 5 pages), <strong>a research proposal </strong>(max. 5 pages), <strong>a separate document with full CV including the publication record</strong> (used in a different phase of the selection procedure), and 2-4 references or letters of recommendations to: Dr Rémi FRONZES ( <a href="mailto:r.fronzes@iecb.u-bordeaux.fr">r.fronzes@iecb.u-bordeaux.fr</a>).</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/14/Man-Labo-Ratio-25_10.jpg" alt="" />
+                <h3>Project leader positions at IECB – Bordeaux 2020</h3>
+<p>The European Institute of Chemistry and Biology, <i>Institut Européen de Chimie et Biologie </i>(IECB, www.iecb.u-bordeaux.fr) is a research team incubator placed under the joint authority of the University of Bordeaux, CNRS and INSERM. It benefits from the strong scientific environment of the Bordeaux campus in the Southwest of France. The Institute hosts 16 research groups working at the interface of chemistry and biology in a contemporary building (9700 sq meters), equipped with state-of-the-art instruments and facilities. The scientific policy of the Institute is under the responsibility of an International Scientific Advisory Board, which selects new group leaders.</p>
+<p><strong>IECB is looking for outstanding candidates who will complement the existing strengths of the Institute, in the broad fields of chemistry</strong> (organic, bio-inorganic, supramolecular, biological, bio-inspired nanotechnology,…) <strong>and biology</strong> (molecular and cellular biology, molecular biophysics, structural biology,…). We are particularly keen to host new teams in the fields of synthetic chemistry and molecular modeling, but applicants from all fields are welcome to apply.</p>
+<p>Applicants are expected to propose creative projects and will have full autonomy to manage their group. They should also be open to interdisciplinary collaborations with other groups of the Institute and other laboratories of the Bordeaux campus. Successful candidates will have access to IECB’s facilities in structural biology, chemistry, molecular and cellular biology. Candidates are primarily expected to be at an early stage of their research career (with 2-10 years of post-doctoral experience) but more senior applications may be considered as well. The candidates will be asked to apply for start-up funding such as the ATIP-Avenir programme, FRM "amorçage", ANR support or ERC, and will be supported to secure a permanent research position in France if they don’t already hold one. Applicants should be fluent in English. Knowledge of French is not mandatory.</p>
+<p>Applicants are invited to submit - prior to <strong>December 31, 2019 </strong>– a cover letter, an <strong>extended biosketch</strong> explaining the impact of past research (max. 5 pages), <strong>a research proposal </strong>(max. 5 pages), <strong>a separate document with full CV including the publication record</strong> (used in a different phase of the selection procedure), and 2-4 references or letters of recommendations to: Dr Rémi FRONZES ( <a href="mailto:r.fronzes@iecb.u-bordeaux.fr">r.fronzes@iecb.u-bordeaux.fr</a>).</p>
+
+<figure class="post__image post__image--left"><img loading="lazy"  src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/14/IECB-logo-XL-2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/14/responsive/IECB-logo-XL-2-xs.jpg 300w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/14/responsive/IECB-logo-XL-2-sm.jpg 480w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/14/responsive/IECB-logo-XL-2-md.jpg 768w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/14/responsive/IECB-logo-XL-2-lg.jpg 1024w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/14/responsive/IECB-logo-XL-2-xl.jpg 1360w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/14/responsive/IECB-logo-XL-2-2xl.jpg 1600w"  alt="IECB - Logo XL" width="580" height="202"></figure>
+<p> </p>
+<p> </p>
+<p> </p>
+
+<figure class="post__image"><img loading="lazy"  src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/14/Logo-Cnrs-Inserm-U-Bordeaux.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/14/responsive/Logo-Cnrs-Inserm-U-Bordeaux-xs.jpg 300w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/14/responsive/Logo-Cnrs-Inserm-U-Bordeaux-sm.jpg 480w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/14/responsive/Logo-Cnrs-Inserm-U-Bordeaux-md.jpg 768w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/14/responsive/Logo-Cnrs-Inserm-U-Bordeaux-lg.jpg 1024w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/14/responsive/Logo-Cnrs-Inserm-U-Bordeaux-xl.jpg 1360w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/14/responsive/Logo-Cnrs-Inserm-U-Bordeaux-2xl.jpg 1600w"  alt="CNRS INSERM Universitée Bordeaux"></figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Annual Report</title>
+        <author>
+            <name>IECB Web Publisher</name>
+        </author>
+        <link href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/annual-report/"/>
+        <id>https://iecb-u-bordeaux.github.io/website-publii-cms-repo/annual-report/</id>
+            <category term="Annual Report"/>
+
+        <updated>2020-08-13T02:51:07+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/13/pexels-lukas-590022.jpg" alt="" />
+                     2018Le rapport scientifique 2018 en ligne Le rapport annuel de l'IECB est disponible. Pour le consulter : Download here
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/13/pexels-lukas-590022.jpg" alt="" />
+                <h2> 2018</h2>
 <p>Le rapport scientifique 2018 en ligne<br>Le rapport annuel de l'IECB est disponible.<br>Pour le consulter : <a href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/IECB-Annual-Report-2018.pdf" target="_blank" rel="noopener noreferrer">Download here</a></p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Board Direction</title>
-        <author>
-            <name>IECB Publisher</name>
-        </author>
-        <link href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/board-direction.html"/>
-        <id>https://iecb-u-bordeaux.github.io/website-publii-cms-repo/board-direction.html</id>
-            <category term="Direction"/>
-
-        <updated>2020-08-01T19:18:33+02:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
         <title>Organisation Board</title>
         <author>
-            <name>IECB Publisher</name>
+            <name>IECB Web Publisher</name>
         </author>
-        <link href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/organisation-board.html"/>
-        <id>https://iecb-u-bordeaux.github.io/website-publii-cms-repo/organisation-board.html</id>
+        <link href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/board-direction/"/>
+        <id>https://iecb-u-bordeaux.github.io/website-publii-cms-repo/board-direction/</id>
+            <category term="Direction"/>
 
-        <updated>2020-08-01T19:18:33+02:00</updated>
+        <updated>2020-08-13T02:51:07+02:00</updated>
             <summary>
                 <![CDATA[
-                     Board of directors Dr. Rémi FRONZES Directeur de l’IECB et de l’UMS/US Directeur de Recherche CNRS Dr. Valérie GABELICA co-Directrice de L'IECB Directeur de Recherche INSERM Mme Sylvie DJIAN Directrice adjointe de l’UMS/US Ingénieur de recherche CNRS Dr. Brice KAUFFMANN Directeur adjoint de l’UMS/US&hellip;
+                        <img src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/12/pix-IECB-Board.jpg" alt="" />
+                    Board of DirectorsRémi FRONZES Directeur de l’IECB et de l’UMS/US | Directeur de Recherche CNRSValérie GABELICA Co-directrice de L'IECB | Directeur de Recherche INSERMSylvie DJIAN Directrice adjointe de l’UMS/US | Ingénieur de recherche CNRSBrice KAUFFMANN Directeur adjoint de l’UMS/US | Ingénieur de Recherches CNRSGilles GUICHARD&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                
-    <h2 id="board-of-directors">
-      Board of directors
-    </h2>
-
-  <ul>
-    <li>Dr. Rémi FRONZES
-<br>Directeur de l’IECB et de l’UMS/US
-<br>Directeur de Recherche CNRS
-<br><br></li><li>Dr. Valérie GABELICA
-<br>co-Directrice de L'IECB
-<br>Directeur de Recherche INSERM
-<br><br></li><li>Mme Sylvie DJIAN
-<br>Directrice adjointe de l’UMS/US
-<br>Ingénieur de recherche CNRS
-<br><br></li><li>Dr. Brice KAUFFMANN
-<br>Directeur adjoint de l’UMS/US
-<br>Ingénieur de Recherches CNRS
-<br><br></li><li>Dr. Gilles GUICHARD
-<br>Chef de projet
-<br>Directeur de recherche CNRS
-<br><br></li><li>Dr. Axel INNIS, chef de projet
-<br>Directeur de Recherche INSERM
-<br><br></li><li>Dr. Cameron MACKERETH, chef de projet
-<br>Chargé de recherche Inserm
-<br><br></li><li>Dr. Anne ROYOU, chef de projet
-<br>Directrice de Recherche CNRS&nbsp;<br></li>
-  </ul>
-
-    <h2 id="steering-committee">
-      Steering committee
-    </h2>
-
-  <ul>
-    <li>Dr. Rémi FRONZES<br>Directeur de l’IECB et de l’UMS/US<br>Directeur de Recherche CNRS</li><li><br></li><li><span style="color: var(--eb-text-primary-color); font-family: var(--font-base); font-size: 1em; font-weight: var(--font-weight-normal);">Dr. Valérie GABELICA, co-directrice<br></span>Directrice de Recherche Inserm</li>
-  </ul>
-
-  <p>
-    
-  </p>
+                    <img src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/12/pix-IECB-Board.jpg" alt="" />
+                <h2>Board of Directors</h2>
+<ul>
+<li>Rémi FRONZES<br>Directeur de l’IECB et de l’UMS/US | Directeur de Recherche CNRS</li>
+<li>Valérie GABELICA<br>Co-directrice de L'IECB | Directeur de Recherche INSERM</li>
+<li>Sylvie DJIAN<br>Directrice adjointe de l’UMS/US | Ingénieur de recherche CNRS</li>
+<li>Brice KAUFFMANN<br>Directeur adjoint de l’UMS/US | Ingénieur de Recherches CNRS</li>
+<li>Gilles GUICHARD<br>Chef de projet | Directeur de recherche CNRS</li>
+<li>Axel INNIS<br>Chef de projet | Directeur de Recherche INSERM</li>
+<li>Cameron MACKERETH<br>Chef de projet | Chargé de recherche Inserm</li>
+<li>Anne ROYOU<br>Chef de projet</li>
+</ul>
+<h2>Steering Committee</h2>
+<ul>
+<li>Rémi FRONZES<br>Directeur de l’IECB et de l’UMS/US | Directeur de Recherche CNRS</li>
+<li>Valérie GABELICA<br>Co-directrice | Directrice de Recherche Inserm</li>
+</ul>
+<h2>Board of Trustees</h2>
+<ul>
+<li>Université de Bordeaux <br>351 cours de la Libération, 33405 Talence<br>Centre National de la Recherche Scientifique<br>3 rue Michel-Ange, 75794 Paris CEDEX 16<br><br></li>
+<li>Institut National de la Santé et de la Recherche Médicale<br>101 rue de Tolbiac, 75654  Paris CEDEX 13</li>
+</ul>
+<h2>International scientific advisory board</h2>
+<ul>
+<li>Dr. Witold FILIPOWICZ<br>Institut Friedrich Miescher, Basel, Switzerland</li>
+<li>Dr. Bernd GIESE<br>Departement of Chemistry, University of Basel, Switzerland</li>
+<li>Prof. Roeland NOLTE<br>Radboud University Nijmegen, Netherlands</li>
+<li>Prof. Dinshaw PATEL<br>Memorial Slaon-Kettering Cancer Center, New York, USA</li>
+<li>Prof. Yves POMMIER<br>National Cancer Research, NIH, Bethesda, USA</li>
+<li>Dr. Daniel SCHIRLIN<br>Sanofi Aventis, Paris, France</li>
+<li>Dr. Moshe YANIV<br>Institut Pasteur, Paris, France</li>
+<li>Pr. Herbert WALDMANN<br>Max Planck Institut, Dortmund, Allemagne<br>
+<h3>Former board members<br><br></h3>
+</li>
+<li>Dr. Daniel LOUVARD<br>Institut Curie, Paris, France</li>
+<li>Pr. Iain CAMPBELL<br>Department of Biochemistry, University of Oxford, UK (1999-2013)</li>
+<li>Dr. Simon CAMPBELL<br>Royal Society of Chemistry, Londres, Royaume-Uni (2004 - 2011)</li>
+<li>Prof. Claude HÉLÈNE<br>President, Muséum National d’Histoire Naturelle, Paris, France (1999 – 2003)</li>
+<li>Prof. Georges HUEZ<br>Université Libre de Bruxelles, Brussels, Belgium (2000 – 2005)</li>
+<li>Prof. Steven LEY<br>Departement de Chemistry, University of Cambridge, UK (1999 – 2005)</li>
+<li>Prof. Helmut RINGSDORF<br>Institut für Organische Chemie, Johannes Gutenberg Universität, Mainz, Germany (1999 – 2006)</li>
+<li>Prof. Fritz ECKSTEIN<br>Max Planck Institute for Experimental Medicine, Göttingen, Germany (2003 – 2006)</li>
+<li>Prof. Jack BALDWIN<br>Departement of Chemistry, University of Oxford, UK (2005 – 2007)</li>
+<li>Prof. Wilfred van GUNSTEREN<br>Laboratory of Physical Chemistry, ETH, Zürich, Switzerland (1999 – 2007)</li>
+<li>Prof. François DIEDERICH<br>Department of Chemistry and Applied Biosciences, ETH, Zürich, Switzerland (2006 – 2008)</li>
+<li>Prof. Jean-Yves LALLEMAND<br>Institut de Chimie des Substances Naturelles, CNRS Gif-sur-Yvette, France (1999-2010)</li>
+</ul>
+<h2>UMS3033/US001</h2>
+<p>Support services at IECB consist of staffs in administration and finance, infrastructure and maintenance, as well as 10 permanent technicians dedicated to IECB’s technology platform.<br>The support services unit UMS3033/US001 is jointly funded by the CNRS, the Inserm and the Université of Bordeaux, and receives financial support from the Nouvelle Aquitaine Regional Council. Research teams also contribute to  financing those general services.</p>
+<h5><em><a href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/2018-ums-organigramme.pdf" target="_blank" rel="noopener noreferrer">UMS/US Organization chart to Download</a></em></h5>
+<h3>Administration and infrastructures</h3>
+<ul>
+<li>Administrative director: Sylvie DJIAN, IR, CNRS</li>
+</ul>
+<h3>Executive assistant</h3>
+<ul>
+<li>Executive assistant and UMS accounting and administration officer: Claire-Hélène BIARD, AI, Inserm</li>
+</ul>
+<h3>Research team administration and finances</h3>
+<ul>
+<li>Accounting and administration officer: Laetitia COINTEMENT, Tech, Inserm</li>
+<li>Accounting and administration officer: Catherine DUPRAT, Tech, Inserm</li>
+<li>Accounting and administration officer: Laurent KUBICKI, Tech, Inserm</li>
+<li>Accounting and administration officer: Sandra LAVENANT, Tech, Univ. Bordeaux</li>
+<li>Accounting and administration officer: Amélie STOTZINGER, Tech, Inserm</li>
+</ul>
+<h3>Infrastructures, building ans logistic</h3>
+<ul>
+<li>IT manager: Gérald CANET, IE, Inserm</li>
+<li>IT technicien: Eric ROUBIN, Tech., Inserm</li>
+<li>Infrastructure Officer : Patrice DUBEDAT, Ajt, Univ. Bordeaux</li>
+</ul>
+<h3>Structural Biophysico-chemistry facilities</h3>
+<ul>
+<li>Head of the facilitie Brice KAUFFMANN, IR, CNRS</li>
+<li>Crystallography: Stéphane MASSIP, IE, Univ. Bordeaux</li>
+<li>Electron Microscopy: Armel Bezault, IE, CNRS</li>
+<li>Nuclear Magnetic Resonance: Estelle MORVAN, IE CNRS</li>
+<li>Surface Plasmon Resonance - CD – ITC : Laetitia MINDER, AI, Inserm :</li>
+<li>Mass spectrometry: Frédéric ROSU, IR CNRS</li>
+<li>Biochemistry and molecular Biology :</li>
+<li>Head : Jean-Michel BLANC, IE, Inserm</li>
+<li>Biochemistry and molecular Biology: Thierry DAKHLI, Tech, Inserm</li>
+<li>Laundry : Myriam MEDERIC, Tech, Inserm</li>
+<li>Peptide synthesis : Loïc KLINGER, AI, CNRS</li>
+</ul>
             ]]>
         </content>
     </entry>
     <entry>
         <title>About IECB</title>
         <author>
-            <name>IECB Publisher</name>
+            <name>IECB Web Publisher</name>
         </author>
-        <link href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/about-iecb.html"/>
-        <id>https://iecb-u-bordeaux.github.io/website-publii-cms-repo/about-iecb.html</id>
+        <link href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/about-iecb/"/>
+        <id>https://iecb-u-bordeaux.github.io/website-publii-cms-repo/about-iecb/</id>
             <category term="Presentation"/>
-            <category term="Mission"/>
             <category term="IECB"/>
 
-        <updated>2020-08-01T19:18:33+02:00</updated>
+        <updated>2020-08-13T02:51:07+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/10/pix-IECB-Presentation.jpg" alt="IECB Batiment" />
@@ -200,536 +577,6 @@
 <br>
 <br>IECB provides research teams with a work environment designed to foster interdisciplinary interactions. Teams are encouraged to develop joint research projects as well as international partnerships with public and private research centres
   </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Research Teams</title>
-        <author>
-            <name>IECB Publisher</name>
-        </author>
-        <link href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/research-teams-2.html"/>
-        <id>https://iecb-u-bordeaux.github.io/website-publii-cms-repo/research-teams-2.html</id>
-
-        <updated>2020-08-01T19:18:33+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Equipes de rechercheSite Web de l'équipe Site Web de l'équipe Site Web de l'équipe Site Web de l'équipe Site Web de l'équipe Translational Regulation of Gene Expression Solid-State NMR of Molecular Assemblies Chemical Neuroglycobiology Structure and function of bacterial nano-machines Team website Single-molecule Biophysic Nicolas&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <table class="contentpaneopen">
-<tbody>
-<tr>
-<td class="contentheading" width="100%"><a href="http://www.iecb.u-bordeaux.fr/index.php/fr/equipes" class="contentpagetitle">Equipes de recherche</a></td>
-</tr>
-</tbody>
-</table>
-<table class="contentpaneopen">
-<tbody>
-<tr>
-<td valign="top">
-<div>
-<p><a href="http://www.guichard-iecb.fr/" target="_blank" rel="noopener">Site Web de l'équipe</a></p>
-<h2><a href="http://www.iecb.u-bordeaux.fr/index.php/fr/equipes/peptidomimetic-chemistry"><img loading="lazy" src="http://www.iecb.u-bordeaux.fr/images/stories/Equipes/Guichard/gguichard.jpg" data-is-external-image="true"  width="50" border="0"></a><a href="http://www.iecb.u-bordeaux.fr/index.php/fr/equipes/peptidomimetic-chemistry" target="_blank" rel="noopener">Gilles Guichard<br></a></h2>
-<div>Peptidomimetic chemistry<hr></div>
-<div>
-<p><a href="http://www.nmrbordeaux.org/" target="_blank" rel="noopener">Site Web de l'équipe</a></p>
-<h2><a href="http://www.iecb.u-bordeaux.fr/index.php/fr/equipes/nmr-spectroscopy-of-protein-nucleic-acid-complexes" target="_blank" rel="noopener"><img loading="lazy" src="http://www.iecb.u-bordeaux.fr/images/stories/Equipes/Mackereth/cmackereth.jpg" data-is-external-image="true"  width="50" border="0"></a><a href="http://www.iecb.u-bordeaux.fr/index.php/fr/equipes/48-nmr-spectroscopy-of-protein-nucleic-acid-complexes">Cameron Mackereth<br></a></h2>
-<div>NMR spectroscopy of protein-nucleic acid complexes</div>
-<hr></div>
-<div>
-<h2><a href="http://www.iecb.u-bordeaux.fr/index.php/fr/equipes/49-unusual-nucleic-acid-structures"><img loading="lazy" src="http://www.iecb.u-bordeaux.fr/images/stories/Equipes/Mergny/jlm2_tailleweb.jpg" data-is-external-image="true"  alt="jlm2_tailleweb" width="50" height="45"></a><a href="http://www.iecb.u-bordeaux.fr/index.php/fr/equipes/49-unusual-nucleic-acid-structures">Jean-Louis Mergny<br></a></h2>
-<div>Unusual nucleic acid structures<hr></div>
-<div>
-<p><a href="http://www.iecb.u-bordeaux.fr/teams/MCCUSKER" target="_blank" rel="noopener">Site Web de l'équipe</a></p>
-<h2><a href="http://www.iecb.u-bordeaux.fr/index.php/fr/equipes/dynamics-of-cell-growth-a-cell-division" target="_self"><img loading="lazy" src="http://www.iecb.u-bordeaux.fr/images/stories/Equipes/McCusker/dmccusker.jpg" data-is-external-image="true"  width="50" border="0"></a><a href="http://www.iecb.u-bordeaux.fr/index.php/fr/equipes/51-dynamics-of-cell-growth-a-cell-division">Derek McCusker<br></a></h2>
-<div>Dynamics of cell growth &amp; cell division</div>
-<br><hr></div>
-<div>
-<p><a href="http://www.royoulab.info/" target="_blank" rel="noopener">Site Web de l'équipe</a></p>
-<h2><a href="http://www.iecb.u-bordeaux.fr/index.php/fr/equipes/53-control-and-dynamics-of-cell-division"><img loading="lazy" src="http://www.iecb.u-bordeaux.fr/images/stories/Equipes/Royou/orga.jpg" data-is-external-image="true"  width="50" border="0"></a><a href="http://www.iecb.u-bordeaux.fr/index.php/fr/equipes/53-control-and-dynamics-of-cell-division">Anne Royou<br></a></h2>
-Control and dynamics of cell division<br><hr></div>
-<div>
-<p><a href="http://innislab.org/" target="_blank" rel="noopener">Site Web de l'équipe</a></p>
-<h2><a href="http://www.iecb.u-bordeaux.fr/index.php/fr/recherche/149-translational-regulation-of-gene-expression"><img loading="lazy" src="http://www.iecb.u-bordeaux.fr/images/stories/Equipes/Innis/innis.jpg" data-is-external-image="true"  alt="innis" width="50" height="50"></a><a href="http://www.iecb.u-bordeaux.fr/index.php/fr/equipes/149-translational-regulation-of-gene-expression">Axel Innis<br></a></h2>
-<p>Translational Regulation of Gene Expression</p>
-<a href="http://www.iecb.u-bordeaux.fr/teams/DURAN/" target="_blank" rel="noopener"></a></div>
-<div><hr>
-<div><a href="http://www.iecb.u-bordeaux.fr/index.php/en/equipes/170-solid-state-nmr-of-molecular-assemblies" target="_blank" rel="noopener"><img loading="lazy" src="http://www.iecb.u-bordeaux.fr/images/stories/Equipes/Loquet/photo1.jpg" data-is-external-image="true"  alt="photo1" width="50" height="46"></a><a target="_blank" href="http://www.loquetlab.org/" rel="noopener">Site Web de l'équipe</a><a target="_blank" href="http://www.iecb.u-bordeaux.fr/index.php/en/equipes/170-solid-state-nmr-of-molecular-assemblies" rel="noopener">Antoine Loquet</a></div>
-<div> </div>
-<p><a href="http://www.iecb.u-bordeaux.fr/index.php/en/equipes/170-solid-state-nmr-of-molecular-assemblies" target="_blank" rel="noopener">Solid-State NMR of Molecular Assemblies</a></p>
-<hr>
-<h2><a href="http://www.iecb.u-bordeaux.fr/index.php/fr/equipes/178-chemical-neuroglycobiology" target="_blank" rel="noopener"><img loading="lazy" src="http://www.iecb.u-bordeaux.fr/images/stories/Equipes/Friscourt/fredericfriscourtidnb.jpg" data-is-external-image="true"  alt="fredericfriscourtidnb" width="50" height="47"></a> <a href="http://www.iecb.u-bordeaux.fr/index.php/fr/equipes/178-chemical-neuroglycobiology" target="_blank" rel="noopener">Frédéric Friscourt</a></h2>
-<p>Chemical Neuroglycobiology</p>
-<hr>
-<h2><a href="http://www.iecb.u-bordeaux.fr/index.php/fr/equipes/198-david-santamaria" target="_blank" rel="noopener"><img loading="lazy" src="http://www.iecb.u-bordeaux.fr/images/stories/Equipes/Santamaria/portraitdstailleweb.jpg" data-is-external-image="true"  alt="portraitdstailleweb" width="50" height="48"></a><a href="http://www.iecb.u-bordeaux.fr/index.php/fr/equipes/198-david-santamaria" target="_blank" rel="noopener">David Santamaria</a></h2>
-<h2><a href="http://www.iecb.u-bordeaux.fr/index.php/fr/equipes/198-david-santamaria" target="_blank" rel="noopener"><br>Novel mediators in lung oncogenesis</a></h2>
-<hr>
-<h2><a href="http://www.iecb.u-bordeaux.fr/index.php/fr/equipes/199-structure-and-function-of-bacterial-nano-machines" target="_blank" rel="noopener"><img loading="lazy" src="http://www.iecb.u-bordeaux.fr/images/stories/Equipes/Fronzes/portraitremi2.jpg" data-is-external-image="true"  alt="portraitremi2" width="50" height="45"></a><a href="http://www.iecb.u-bordeaux.fr/index.php/fr/equipes/199-structure-and-function-of-bacterial-nano-machines" target="_blank" rel="noopener">Rémi Fronzes</a></h2>
-<p>Structure and function of bacterial nano-machines<br><br></p>
-<hr><a href="http://www.iecb.u-bordeaux.fr/teams/GABELICA/" target="_blank" rel="noopener">Site Web de l'équipe</a>
-<div>
-<h2><a href="http://www.iecb.u-bordeaux.fr/index.php/fr/equipes/148-mass-spectrometry-of-nucleic-acids-and-supramolecular-complexes"><img loading="lazy" src="http://www.iecb.u-bordeaux.fr/images/stories/news/2013/valerienb.jpg" data-is-external-image="true"  width="50" border="0"></a><a href="http://www.iecb.u-bordeaux.fr/index.php/fr/equipes/148-mass-spectrometry-of-nucleic-acids-and-supramolecular-complexes">Valérie Gabelica<br></a></h2>
-<div><a href="http://www.iecb.u-bordeaux.fr/index.php/fr/equipes/148-mass-spectrometry-of-nucleic-acids-and-supramolecular-complexes"></a>Mass spectrometry of nucleic acids and Supramolecular complexes</div>
-<div><hr></div>
-<div>
-<div>
-<p><a href="https://www.aznauryan-lab.com/" target="_blank" rel="noopener">Team website</a></p>
-</div>
-<h2><img loading="lazy" src="http://www.iecb.u-bordeaux.fr/images/stories/Equipes/AZNAURYAN/unnamed.jpg" data-is-external-image="true"  alt="unnamed" width="50" height="64"> Mikayel Aznauryan</h2>
-<div> </div>
-<div>
-<p>Single-molecule Biophysic</p>
-<hr></div>
-</div>
-</div>
-<div>
-<h3> </h3>
-<h3><a href="https://scholar.google.com/citations?hl=fr&amp;user=A51lfsQAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank" rel="noopener">Emmanuelle Thinon</a></h3>
-<hr>
-<h3> </h3>
-<h3> </h3>
-<h3> </h3>
-<h3><a href="https://orcid.org/0000-0002-1858-8127" target="_blank" rel="noopener">Petya Violinova Krasteva</a></h3>
-<hr>
-<p> </p>
-<h3> </h3>
-<h3> </h3>
-<h3><a href="https://orcid.org/0000-0001-6618-8307" target="_blank" rel="noopener">Nicolas Reyes</a></h3>
-<hr>
-<h3> </h3>
-<h3> </h3>
-<h3>Membre associé</h3>
-</div>
-<div>
-<h2><a href="http://www.iecb.u-bordeaux.fr/index.php/fr/equipes/70-organic-a-medicinal-chemistry"><img loading="lazy" src="http://www.iecb.u-bordeaux.fr/images/stories/Equipes/Ghosez/lghosez.jpg" data-is-external-image="true"  width="50" border="0"></a><a href="http://www.iecb.u-bordeaux.fr/index.php/fr/equipes/70-organic-a-medicinal-chemistry"></a><a href="http://www.iecb.u-bordeaux.fr/index.php/fr/equipes/70-organic-a-medicinal-chemistry">Léon Ghosez<br></a></h2>
-<div>Organic &amp; medicinal chemistry</div>
-</div>
-</div>
-</div>
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Mentions légales</title>
-        <author>
-            <name>IECB Publisher</name>
-        </author>
-        <link href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/legals-mentions.html"/>
-        <id>https://iecb-u-bordeaux.github.io/website-publii-cms-repo/legals-mentions.html</id>
-
-        <updated>2020-08-01T19:18:33+02:00</updated>
-            <summary>
-                <![CDATA[
-                     Informations générales Le site www.iecb.u-bordeaux.fr une publication de l'Institut Européen de Chimie et Biologie (IECB), 2 rue Robert Escarpit, 33607 PESSAC, France Directeur de la publication : Jean-Louis Mergny Directeur de la rédaction : Céline Charrier Crédits photos: Yves Théobald (YTP), François Guenet (François&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-    <h6 id="informations-gnrales">
-      Informations générales
-    </h6>
-
-  <p>
-    Le site www.iecb.u-bordeaux.fr une publication de l'Institut Européen de Chimie et Biologie (IECB), 2 rue Robert Escarpit, 33607 PESSAC, France
-<br>
-<br><em>Directeur de la publication : </em><br>Jean-Louis Mergny
-<br>
-<br><em>Directeur de la rédaction : </em><br>Céline Charrier
-<br>
-<br><em>Crédits photos: </em><br>Yves Théobald (YTP), François Guenet (François Guenet), Pierre-Emmanuel Gaultier (A to B communication)
-<br>
-<br><em>Webmaster : </em><br>Gérald Canet
-  </p>
-
-    <h6 id="hbergement--iecb">
-      Hébergement : IECB
-    </h6>
-
-  <p>
-    <br>Utilisation du site
-<br>
-<br>L'utilisation du site est réservée à un usage personnel.
-<br>
-<br>L'accès au site peut être interrompu à tout moment, sans préavis, notamment en cas de force majeure, de maintenance ou si l'IECB décide de suspendre ou d'arrêter la fourniture de ce service. L'obligation de fourniture du service se limite donc à une obligation de moyens.
-<br>--------------
-<br>
-<br>Contenu du site
-<br>
-<br>L'IECB s'efforce d'assurer au mieux de ses possibilités, l'exactitude et la mise à jour des informations diffusées, au moment de leur mise en ligne sur le site. Cependant, l'IECB ne garantit en aucune façon l'exactitude, la précision ou l'exhaustivité des informations mises à disposition sur le site. Les informations présentes sur le site sont non-contractuelles et peuvent être modifiées à tout moment.
-<br>
-<br>Le site est régi par la loi française. Les utilisateurs étrangers acceptent formellement l'application de la loi française en visitant ce site et en utilisant tout ou partie des fonctionnalités du site.
-<br>--------------
-<br>
-<br>Propriété intellectuelle
-<br>
-<br>Les contenus, les textes, y compris les communiqués de presse, les vidéos, les images et les animations qui apparaissent ou sont disponibles sur le site, sont protégés par le droit de la propriété intellectuelle et sont la propriété exclusive de l'IECB. A ce titre, vous vous engagez à ne pas copier, traduire, reproduire, vendre, publier, exploiter et diffuser des contenus du site protégés par le droit de la propriété intellectuelle, sans autorisation préalable et écrite de l'IECB.
-<br>
-<br>Les marques et les logos présents sur le site sont, sauf cas particulier, la propriété de l'IECB. Sauf autorisation préalable et écrite, l'internaute s'interdit de les utiliser.
-<br>
-<br>L'IECB consent toutefois à l'internaute le droit de reproduire tout ou partie du contenu du site, en un exemplaire pour copie de sauvegarde ou tirage sur papier. Ce droit est consenti dans le cadre d'un usage strictement personnel, privé et non collectif.
-<br>------------
-<br>
-<br>Vie privée
-<br>
-<br>L'IECB s'engage à ne pas divulguer à des tiers les informations que l'internaute lui communique. Celles-ci sont confidentielles et ne seront utilisées que pour les besoins du service.
-<br>
-<br>Le site répond à la réglementation relative à l'informatique, aux fichiers et aux libertés telle que définie par la loi n°78-17, modifiée. L'internaute dispose, pour ce qui concerne ses données personnelles collectées lors de sa visite sur le site, d'un droit d'accès, de modification, de rectification et de suppression des données conformément à la loi française. Ces droits peuvent être exercés auprès de :
-<br>
-<br>IECB
-<br>
-<br>Service Informatique
-<br>
-<br>Site www.iecb.u-bordeaux.fr
-<br>
-<br>2 rue Robert Escarpit
-<br>
-<br>33607 PESSAC, France
-<br>---------------
-<br>
-<br>Liens
-<br>
-<br>Le site peut contenir des liens vers des sites de partenaires ou de tiers. L'IECB ne disposant d'aucun moyen pour contrôler ces sites n'offre aucune garantie quant au respect par ces sites des lois et règlement en vigueur.
-<br>--------------------
-<br>
-<br>Modifications
-<br>
-<br>L'IECB se réserve le droit de modifier, sans préavis, les présentes conditions générales d'utilisation du site www.iecb.u-bordeaux.fr.
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>IECB Technology Platforms</title>
-        <author>
-            <name>IECB Publisher</name>
-        </author>
-        <link href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/iecb-technology-platforms.html"/>
-        <id>https://iecb-u-bordeaux.github.io/website-publii-cms-repo/iecb-technology-platforms.html</id>
-            <category term="Tech"/>
-            <category term="Platform"/>
-            <category term="IECB"/>
-
-        <updated>2020-08-01T19:18:33+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/1/pexels-thisisengineering-3862623.jpg" alt="" />
-                    IECB technology platforms bring together the scientific instrumentation and expertise available at the institute.Open to companies and acadamic labs, they provide services in Structural biology and Preparative and analytical techniques. IECB technology platforms are part of IECB's support services unit (UMS3033/US001). IECB's support services, which&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/1/pexels-thisisengineering-3862623.jpg" alt="" />
-                <h3><em><strong>IECB technology platforms</strong> bring together the scientific instrumentation and expertise available at the institute.</em></h3>
-<p>Open to companies and acadamic labs, they provide services in <a target="_self" href="http://www.iecb.u-bordeaux.fr/index.php/en/structural-biophysico-chemistry">Structural biology</a> and <a target="_self" href="http://www.iecb.u-bordeaux.fr/index.php/en/techniques-analytiques-et-preparatives">Preparative and analytical techniques</a>.</p>
-<p> </p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/1/Photo-IECB-dsc_5816.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/1/responsive/Photo-IECB-dsc_5816-xs.jpg 300w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/1/responsive/Photo-IECB-dsc_5816-sm.jpg 480w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/1/responsive/Photo-IECB-dsc_5816-md.jpg 768w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/1/responsive/Photo-IECB-dsc_5816-lg.jpg 1024w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/1/responsive/Photo-IECB-dsc_5816-xl.jpg 1360w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/1/responsive/Photo-IECB-dsc_5816-2xl.jpg 1600w"  alt="IECB technology platforms" width="883" height="587"></figure>
-<p>IECB technology platforms are part of IECB's support services unit (UMS3033/US001). IECB's support services, which also comprises mutualised services in administration, infrastructure and informatics, are aimed at facilitating the work of the IECB teams.<br>IECB's support services unit is jointly funded by the CNRS, the Inserm, the Université of Bordeaux , and receives financial support from the Aquitaine Regional Council. Research teams also contribute to financing those general services.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Control and dynamics of cell division</title>
-        <author>
-            <name>IECB Publisher</name>
-        </author>
-        <link href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/control-and-dynamics-of-cell-division-dr-anne-royou.html"/>
-        <id>https://iecb-u-bordeaux.github.io/website-publii-cms-repo/control-and-dynamics-of-cell-division-dr-anne-royou.html</id>
-            <category term="DNA"/>
-            <category term="Chromosm"/>
-            <category term="Cell Division"/>
-            <category term="Cell"/>
-
-        <updated>2020-08-01T19:18:33+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/pexels-thisisengineering-3861448.jpg" alt="" />
-                    
-    <h2 id="summary">
-      Summary
-    </h2>
-
-  <p>
-    The mechanisms that safeguard cells against aneuploidy are of great interest as aneuploidy contributes to tumorigenesis. Using live imaging approaches, we have identified two novel mechanisms that permit the accurate transmission of chromosomes during cell division. The first mechanism involves the faithful segregation of damaged chromosomes. Our studies reveal that chromosome fragments segregate properly to opposite poles. This poleward motion is mediated through DNA tethers that connect the chromosome fragments. The second mechanism involves the coordination of chromosome segregation with cell cleavage. We found that cells can adapt to a four-fold increase in chromatid length by elongating transiently during anaphase. This mechanism ensures the clearance of chromatids from the cleavage plane at the appropriate time during cytokinesis, thus preserving genome integrity.<br>
-  </p>
-
-    <h2 id="activity-report">
-      Activity report
-    </h2>
-
-  <p>
-    Mitosis is the final stage of the cell cycle where a copy of the duplicated genome condensed into chromosomes is transmitted to each daughter cell. Failure to do so produces daughter cells with an inappropriate genome content, also called aneuploidy. The mechanisms that safeguard cells against aneuploidy are of great interest as aneuploidy contributes to tumorigenesis. Our group has identified two novel mechanisms that permit the accurate transmission of chromosomes during cell division. The first mechanism involves the faithful segregation of damaged chromosomes. The second mechanism coordinates chromosome segregation with cell cleavage.
-  </p>
-
-    <h2 id="mechanism-that-permits-faithful-transmission-of-broken-chromosomes">
-      Mechanism that permits faithful transmission of broken chromosomes
-    </h2>
-
-  <p>
-    Correct transmission of the genetic material requires proper chromosome attachment to spindle microtubules. The centromere of the chromosome serves as an assembly site for a multi-protein structure called the kinetochore, the functional unit that binds the microtubules. The centromere is, thus, essential for proper chromosome segregation. However, we have recently identified a mechanism by which fragments of broken chromosomes lacking centromeres segregate properly. This is achieved through a novel chromatin conformation that tethers the acentric chromosome fragments to their centric partners. The efficient segregation of the broken chromosome fragments depends on the spindle assembly checkpoint component BubR1. BubR1 localizes on the kinetochore until anaphase onset and accumulates on the “tether”, the chromatin structure that attaches the chromosome fragments, throughout mitosis. To determine how BubR1 recruitment to the “tether” is regulated, we monitored dividing cells expressing BubR1 constructs lacking specific domains. We found that the conserved Bub3-Binding Domain and more specifically the Glutamate 481 (E481) are required for BubR1 localization on the tether. Since E481 is essential for BubR1 interaction with Bub3 and its localization on the kinetochore, we investigated whether Bub3 localizes to the tether and more generally whether the “tether” is an assembly site for other kinetochore proteins (Figure 1). We analysed the localization of five core kinetochore proteins and did not detect any signal on the “tether”. In contrast, Bub3 accumulated on the “tether” throughout mitosis. Bub3 and BubR1 were inter-dependent for their localization on the kinetochore and tether. In addition, we found that Cdc20, a key subunit of the APC/C, was recruited on the “tether” in a BubR1 and Bub3 dependent manner throughout mitosis (Figure 1). The expression of a BubR1 mutant lacking the KEN box, a motif required for Cdc20 binding to BubR1, exhibited severe defects in broken chromosome segregation and was associated with a lack of Cdc20 localization on the tether. To test if BubR1 inhibited locally the APC/C on the “tether”, we constructed a synthetic APC/C substrate. To do so, we fused the N terminal sequence of Cyclin B to GFP::Bub3 (DB-Bub3) and monitored its dynamics in the presence of broken chromosomes. We found that DB-Bub3 persisted on the “tether” during early anaphase in a BubR1 KEN box dependent manner. All together these results favour a model in which Bub3 recruits BubR1 on broken chromosomes, which, in turn, inhibits the APC/C locally by sequestering Cdc20 throughout mitosis. This local APC/C inhibition during anaphase preserves key components important for maintaining the broken fragments tethered.
-  </p>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/pix-royou_fig1.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig1-xs.jpg 300w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig1-sm.jpg 480w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig1-md.jpg 768w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig1-lg.jpg 1024w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig1-xl.jpg 1360w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig1-2xl.jpg 1600w"  height="800" width="1013" alt="" />
-      
-    </figure>
-
-    <h2 id="mechanism-that-coordinates-chromosome-segregation-with-cell-cleavage">
-      Mechanism that coordinates chromosome segregation with cell cleavage
-    </h2>
-
-  <p>
-    Chromosome segregation must be coordinated with cell division to ensure proper transmission of the genetic material into daughter cells. Our group identified a novel mechanism by which Drosophila neuronal stem cells coordinate chromosome segregation with cell division. Cells adapt to the presence of chromatid arms at the cleavage site by transiently, but dramatically, elongating during anaphase, thus increasing the rate at which the long chromatids clear the cleavage plane. This adaptive elongation depends on myosin activity and the Rho Guanine-nucleotide exchange factor, Pebble. To understand how the cell deforms when chromatids are present at the cleavage plane, we studied the dynamics of myosin during cytokinesis in cells with or without long chromosomes. Surprisingly, halfway through cytokinesis, myosin undergoes flux from the cytokinetic ring and invades the entire cortex. In control cells, myosin efflux is transient, as myosin dissociates from the cortex upon reformation of the nuclear envelope. However, cells with long chromatids exhibit an extended period of myosin efflux associated with a delay in nuclear envelope formation (NEF). During this prolonged myosin efflux, cortical myosin forms extra rings that deform the nascent daughter cells, permitting the clearance of chromatids from the cleavage plane. We have previously shown that adaptive cell elongation depends on Pebble. Consistently myosin does not undergo efflux in pebble mutant cells with or without long chromatids. Since Pebble accumulates in the nucleus at telophase at the time myosin dissociates from the cortex, we hypothesized that the translocation of Pebble into the nucleus induces myosin dissociation from the cortex via the inactivation of RhoA. Consistently, the expression of a pebble mutant lacking a nuclear location signal induces prolonged myosin efflux associated with cell elongation and extensive blebbing, even in the absence of long chromatid arms at the cleavage site. We propose that the coordination between chromatid segregation, myosin efflux and NEF allows adaptive cell elongation to clear chromatid arms from the cleavage plane before the completion of cytokinesis.&nbsp;<br>
-  </p>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/pix-royou_fig2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig2-xs.jpg 300w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig2-sm.jpg 480w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig2-md.jpg 768w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig2-lg.jpg 1024w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig2-xl.jpg 1360w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig2-2xl.jpg 1600w"  height="200" width="454" alt="" />
-      
-    </figure>
-
-    <h5 id="selected-publications">
-      Selected publications
-    </h5>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/pexels-thisisengineering-3861448.jpg" alt="" />
-                
-    <h2 id="summary">
-      Summary
-    </h2>
-
-  <p>
-    The mechanisms that safeguard cells against aneuploidy are of great interest as aneuploidy contributes to tumorigenesis. Using live imaging approaches, we have identified two novel mechanisms that permit the accurate transmission of chromosomes during cell division. The first mechanism involves the faithful segregation of damaged chromosomes. Our studies reveal that chromosome fragments segregate properly to opposite poles. This poleward motion is mediated through DNA tethers that connect the chromosome fragments. The second mechanism involves the coordination of chromosome segregation with cell cleavage. We found that cells can adapt to a four-fold increase in chromatid length by elongating transiently during anaphase. This mechanism ensures the clearance of chromatids from the cleavage plane at the appropriate time during cytokinesis, thus preserving genome integrity.<br>
-  </p>
-
-    <h2 id="activity-report">
-      Activity report
-    </h2>
-
-  <p>
-    Mitosis is the final stage of the cell cycle where a copy of the duplicated genome condensed into chromosomes is transmitted to each daughter cell. Failure to do so produces daughter cells with an inappropriate genome content, also called aneuploidy. The mechanisms that safeguard cells against aneuploidy are of great interest as aneuploidy contributes to tumorigenesis. Our group has identified two novel mechanisms that permit the accurate transmission of chromosomes during cell division. The first mechanism involves the faithful segregation of damaged chromosomes. The second mechanism coordinates chromosome segregation with cell cleavage.
-  </p>
-
-    <h2 id="mechanism-that-permits-faithful-transmission-of-broken-chromosomes">
-      Mechanism that permits faithful transmission of broken chromosomes
-    </h2>
-
-  <p>
-    Correct transmission of the genetic material requires proper chromosome attachment to spindle microtubules. The centromere of the chromosome serves as an assembly site for a multi-protein structure called the kinetochore, the functional unit that binds the microtubules. The centromere is, thus, essential for proper chromosome segregation. However, we have recently identified a mechanism by which fragments of broken chromosomes lacking centromeres segregate properly. This is achieved through a novel chromatin conformation that tethers the acentric chromosome fragments to their centric partners. The efficient segregation of the broken chromosome fragments depends on the spindle assembly checkpoint component BubR1. BubR1 localizes on the kinetochore until anaphase onset and accumulates on the “tether”, the chromatin structure that attaches the chromosome fragments, throughout mitosis. To determine how BubR1 recruitment to the “tether” is regulated, we monitored dividing cells expressing BubR1 constructs lacking specific domains. We found that the conserved Bub3-Binding Domain and more specifically the Glutamate 481 (E481) are required for BubR1 localization on the tether. Since E481 is essential for BubR1 interaction with Bub3 and its localization on the kinetochore, we investigated whether Bub3 localizes to the tether and more generally whether the “tether” is an assembly site for other kinetochore proteins (Figure 1). We analysed the localization of five core kinetochore proteins and did not detect any signal on the “tether”. In contrast, Bub3 accumulated on the “tether” throughout mitosis. Bub3 and BubR1 were inter-dependent for their localization on the kinetochore and tether. In addition, we found that Cdc20, a key subunit of the APC/C, was recruited on the “tether” in a BubR1 and Bub3 dependent manner throughout mitosis (Figure 1). The expression of a BubR1 mutant lacking the KEN box, a motif required for Cdc20 binding to BubR1, exhibited severe defects in broken chromosome segregation and was associated with a lack of Cdc20 localization on the tether. To test if BubR1 inhibited locally the APC/C on the “tether”, we constructed a synthetic APC/C substrate. To do so, we fused the N terminal sequence of Cyclin B to GFP::Bub3 (DB-Bub3) and monitored its dynamics in the presence of broken chromosomes. We found that DB-Bub3 persisted on the “tether” during early anaphase in a BubR1 KEN box dependent manner. All together these results favour a model in which Bub3 recruits BubR1 on broken chromosomes, which, in turn, inhibits the APC/C locally by sequestering Cdc20 throughout mitosis. This local APC/C inhibition during anaphase preserves key components important for maintaining the broken fragments tethered.
-  </p>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/pix-royou_fig1.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig1-xs.jpg 300w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig1-sm.jpg 480w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig1-md.jpg 768w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig1-lg.jpg 1024w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig1-xl.jpg 1360w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig1-2xl.jpg 1600w"  height="800" width="1013" alt="" />
-      
-    </figure>
-
-    <h2 id="mechanism-that-coordinates-chromosome-segregation-with-cell-cleavage">
-      Mechanism that coordinates chromosome segregation with cell cleavage
-    </h2>
-
-  <p>
-    Chromosome segregation must be coordinated with cell division to ensure proper transmission of the genetic material into daughter cells. Our group identified a novel mechanism by which Drosophila neuronal stem cells coordinate chromosome segregation with cell division. Cells adapt to the presence of chromatid arms at the cleavage site by transiently, but dramatically, elongating during anaphase, thus increasing the rate at which the long chromatids clear the cleavage plane. This adaptive elongation depends on myosin activity and the Rho Guanine-nucleotide exchange factor, Pebble. To understand how the cell deforms when chromatids are present at the cleavage plane, we studied the dynamics of myosin during cytokinesis in cells with or without long chromosomes. Surprisingly, halfway through cytokinesis, myosin undergoes flux from the cytokinetic ring and invades the entire cortex. In control cells, myosin efflux is transient, as myosin dissociates from the cortex upon reformation of the nuclear envelope. However, cells with long chromatids exhibit an extended period of myosin efflux associated with a delay in nuclear envelope formation (NEF). During this prolonged myosin efflux, cortical myosin forms extra rings that deform the nascent daughter cells, permitting the clearance of chromatids from the cleavage plane. We have previously shown that adaptive cell elongation depends on Pebble. Consistently myosin does not undergo efflux in pebble mutant cells with or without long chromatids. Since Pebble accumulates in the nucleus at telophase at the time myosin dissociates from the cortex, we hypothesized that the translocation of Pebble into the nucleus induces myosin dissociation from the cortex via the inactivation of RhoA. Consistently, the expression of a pebble mutant lacking a nuclear location signal induces prolonged myosin efflux associated with cell elongation and extensive blebbing, even in the absence of long chromatid arms at the cleavage site. We propose that the coordination between chromatid segregation, myosin efflux and NEF allows adaptive cell elongation to clear chromatid arms from the cleavage plane before the completion of cytokinesis.&nbsp;<br>
-  </p>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/pix-royou_fig2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig2-xs.jpg 300w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig2-sm.jpg 480w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig2-md.jpg 768w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig2-lg.jpg 1024w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig2-xl.jpg 1360w ,https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/3/responsive/pix-royou_fig2-2xl.jpg 1600w"  height="200" width="454" alt="" />
-      
-    </figure>
-
-    <h5 id="selected-publications">
-      Selected publications
-    </h5>
-<hr id="read-more" />
-
-  <ul>
-    <li>Derive N*, Landmann C*, Montembault E, Claverie MC, Pierre-Elies P, Goutte-Gattat D, Founounou N, McCusker D and Royou A (2015) Bub3/BubR1-dependent sequestration of Cdc20Fizzy at DNA breaks facilitates the correct segregation of broken chromosomes. J Cell Biol. 211(3):517-32. * denotes equal contribution&nbsp;</li><li>Jose M, Tollis S, Nair D, Mitteau R, Velours C, Massoni-Laporte A, Royou A, Sibarita JB, McCusker D (2015) A quantitative imaging-based screen reveals the exocyst as a network hub connecting endocytosis and exocytosis. Mol. Biol. Cell. 26(13):2519-34&nbsp;</li><li>Kotadia, S*, Montembault, E*, Sullivan, W and Royou A (2012) Cell elongation is an adaptive response for clearing long chromatid arms from the cleavage plane. J Cell Biol. 199(5):745-53. * denotes equal contribution, # denotes corresponding author&nbsp;</li><li>McCusker D*, Royou A, Velours C, Kellogg D* (2012) Cdk1-dependent control of membrane trafficking dynamics. Mol Biol Cell. Sep;23(17):3336-47. * denotes equal contribution.&nbsp;</li><li>Royou, A., Gagou, M., Karess, R., D., Sullivan, W. (2010) BubR1 and Polo-coated DNA tethers facilitate the segregation of acentric chromatids. Cell 140(2) : 235-45.&nbsp;</li><li>Royou, A., McCusker, D., Kellogg, D., Sullivan, W. (2008) Grapes(Chk1) prevents nuclear Cdk1 activation by delaying Cyclin B nuclear accumulation. J. Cell Biol. 183(1):63-75
-<br>Riggs, B., Fasulo, B., Royou, A., Mische, S., Cao, J., Hays, TS., Sullivan, W. (2007) The concentration of Nuf, a Rab11 effector, at the microtubule-organizing center is cell cycle regulated, dynein-dependent, and coincides with furrow formation. Mol. Biol. Cell. 18(9) : 3313-22&nbsp;</li><li>Chodagam, S., Royou, A., Whitfield, W., Karess, R., Raff, JW. (2005) The centrosomal protein CP190 regulates myosin function during early Drosophila development. Curr. Biol. 15 (14) : 1308-13&nbsp;</li><li>Royou, A., Macias, H., Sullivan, W. (2005) The Drosophila Grp/Chk1 DNA damage checkpoint controls entry into anaphase. Curr. Biol. 15(4) :334-9
-<br>Silva, E., Tiong, S., Pedersen, M., Homola, E., Royou, A. Fasulo, B. Siriaco, G. Campbell, S.D. (2004) ATM is required for telomere maintenance and chromosome stability during Drosophila development. Curr. Biol. 14(15) :1341-7&nbsp;</li><li>Royou, A., Field, C., Sisson, J. Sullivan, W., Karess, R. (2004) Reassessing the role and dynamics of nonmuscle myosin II during furrow formation and cellularization in the early Drosophila embryo. Mol. Biol. Cell. 15: 838-50&nbsp;</li><li>Royou, A., Sullivan, W., Karess, R. (2002) Cortical recruitment of non muscle myosin II in early syncytial Drosophila embryos: its role in nuclear axial expansion and its regulation by Cdc2 activity. J. Cell. Biol. 158(1):127-37</li>
-  </ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Growth &amp; cell division</title>
-        <author>
-            <name>IECB Publisher</name>
-        </author>
-        <link href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/growth-and-cell-division.html"/>
-        <id>https://iecb-u-bordeaux.github.io/website-publii-cms-repo/growth-and-cell-division.html</id>
-            <category term="exocytosis"/>
-            <category term="endocytosis"/>
-            <category term="cyclin-dependent kinase"/>
-            <category term="cell polarity"/>
-            <category term="cell growth"/>
-            <category term="cell cycle"/>
-            <category term="Rho GTPase"/>
-
-        <updated>2020-08-01T19:18:33+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/5/pexels-cdc-3992943.jpg" alt="" />
-                     Cells grow, duplicate their genome and divide via a series of events collectively termed the cell cycle. Coordination between the cell cycle machinery and proteins that regulate cell growth ensure the fidelity of cell division; however, the underlying mechanisms are unclear. Failure of these&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/5/pexels-cdc-3992943.jpg" alt="" />
-                <p> </p>
-<table class="contentpaneopen">
-<tbody>
-<tr>
-<td valign="top">
-<h2>Summary</h2>
-<p>Cells grow, duplicate their genome and divide via a series of events collectively termed the cell cycle. Coordination between the cell cycle machinery and proteins that regulate cell growth ensure the fidelity of cell division; however, the underlying mechanisms are unclear. Failure of these control mechanisms has been directly linked to tumour formation. The goal of the Cell Growth and Division Laboratory is to understand how cell growth is controlled and how growth is coordinated with cell cycle progression. We address these fundamental ÂÂÂÂÂ questions using cutting edge interdisciplinary approaches.</p>
-<h2><br>Activity report</h2>
-<p><strong>1. Robust polarity establishment via an endocytosis-based cortical corralling mechanism.</strong></p>
-<p>The size and shape that cells adopt is governed in part by the rate and location of plasma membrane growth. This growth is largely driven by exocytic vesicle fusion, while endocytosis removes membrane. The relative rates of these two processes therefore contributes to cell size. Moreover, the spatial organiaztion of these pathways contributes to cell shape and function. In budding yeast, endocytic and exocytic vesicles localize to growth sites in the bud. Given the antagonistic relationship of these processes, this arrangement could be incompatible with the membrane efflux required for polarized growth of the bud. Our previous work demonstrated that endocytic vesicles form a ring around exocytic sites at the cortex. To address whether this might facilitate the formation of a stable polarity axis that contributes to polarized growth, we studied the dynamics of endo- and exocytic vesicles using high resolution <i>in vivo</i> imaging and <i>in silico</i> mathematical modeling (Figure 1).</p>
-<p>We made the following observations that were published in the Journal of Cell Biology:</p>
-<ul>
-<li>Robust polarity establishment involves dynamic changes in exocytic and endocytic trafficking systems (Figure 1).</li>
-<li>Robust polarity establishment involves the generation of a specific endocytic signature.</li>
-<li>Endocytic cortical corralling is required for robust polarity establishment.<br><br><img loading="lazy" src="http://www.iecb.u-bordeaux.fr/images/stories/Equipes/McCusker/2015figure%201.jpg" data-is-external-image="true"  alt="2015figure 1" width="550" height="319"></li>
-</ul>
-<p><strong> </strong></p>
-<em>Figure 1. Robust polarity establishment involves dynamic changes in exocytic and endocytic trafficking systems. (A) Transition of an "in silico" cell from a non-polarized (left) to a polarized state. Membrane-bound active Cdc42 depolarized over the plasma membrane (top left) polarizes to a unique cluster of active Cdc42 over time (top right). The Cdc42 kymograph (upper panel) shows active Cdc42 during polarization. The kymograph in the lower panel shows individual endocytic and exocytic events over time (x-axis) along the cortex (y-axis). A tight pole of exocytosis develops (cyan) overlapping with the active Cdc42, and is corralled by a ring of endocytosis (red, bottom right). (B) Random endocytic and exocytic distributions in vivo in a non-polarized cell (left) change to an organized ‘bull’s-eye-pattern’ in a polarized cell (right) with a tight exocytic zone surrounded by endocytic vesicles.<br><br></em><br>
-<p> </p>
-<blockquote>
-<p><img loading="lazy" src="http://www.iecb.u-bordeaux.fr/images/stories/Equipes/McCusker/2015figure%202.jpg" data-is-external-image="true"  alt="2015figure 2" width="400" height="598"></p>
-</blockquote>
-<p> </p>
-<p><em>Figure 2. Endocytic cortical corralling is required for focused exocytic pole formation. The exocytic and endocytic vesicles are marked by GFP-Sec4 (cyan) and Abp1-RFP (red), respectively. (A) In silico and in vivo analyses of the distributions of exocytic cluster size for polarized wild type cells (red) compared to endocytic mutants such as sla2Δ (purple), sla1Δbbc1Δ (blue) and rvs167Δrvs161Δ cells (pink). An unpaired two-tailed test with Welch’s correction showed significantly different mean values between the polarized wild type and mutant strains, except for in silico rvs167Δrvs161Δ. (B) Kymograph of polarized wild type cells in vivo (upper panel) display focused exocytic pole (cyan) during polarization corralled by endocytic vesicles (red). Endocytic mutants defective in corralling such as sla1Δbbc1Δ (middle panel) and rvs167Δrvs161Δ (lower panel) display depolarized endocytic vesicles (red) and wider exocytic poles (cyan).</em></p>
-<h2> </h2>
-<h2><strong>2. A quantitative imaging-based screen reveals the exocyst vesicle tethering complex as a network hub connecting endo- and exocytosis.</strong></h2>
-<p> </p>
-<p>Having identified a requirement for the spatial organization of endocytic sites around a developing exocytic pole in order to establish and maintain a robust polarity axis, we performed an imaging-based mutant screen to identify proteins required for this striking organization. Surprisingly little is known about the mechanisms linking these two essential trafficking pathways, despite intensive study of each individual pathway during the past 30 years. Developing methods in yeast cells that enable the tracking of vesicle dynamics, our studies identified many new players involved in the organization of endo- and exocytic trafficking domains.</p>
-<p>In brief:</p>
-<ul>
-<li>We performed a candidate screen in over 400 deletions or temperature sensitive mutants and identified 120 mutants in which either endocytosis, exocytosis or both pathways are depolarized (Figure 3A).</li>
-<li>A functional interaction map of components affecting the spatial organization of endo- and exocytic sites revealed the exocyst vesicle-tethering complex as a hub linking the two processes.</li>
-<li>Exocyst mutants display a striking phenotype in which the organization of endo- and exocytic sites seen become interspersed.</li>
-<li>We introduce the use of super-resolution vesicle imaging and high density tracking to provide a novel quantitative view of vesicle dynamics in live cells (Figure 3B).<br><br></li>
-</ul>
-<h2><img loading="lazy" src="http://www.iecb.u-bordeaux.fr/images/stories/Equipes/McCusker/2015figure%203.jpg" data-is-external-image="true"  alt="2015figure 3" width="550" height="371"><br><br></h2>
-<p><em>Figure 3. An imaging-based screening approach to identify proteins required for the spatial organization of endo- and exocytic trafficking domains. A Schematic representation of the mutant phenotypes identified by our screen. Endocytic vesicles are sown in red, while exocytic vesicles are shown in cyan. B Super-resolution imaging and very high-density tracking to monitor exocytic vesicle dynamics in the mutants identified by the screen. Using this approach, thousands of vesicle movements can be monitored in each cell.</em></p>
-<h2><br><br>Selected publications<br><br></h2>
-<ul>
-<li>Jose M, Tollis S, Nair D, Mitteau R, Massoni-Laporte A, Velours C, Sibarita JB and McCusker D. A quantitative imaging-based screen reveals the exocyst complex as a network hub linking endo- and exocytosis. Molecular Biology of the Cell. 2015.<strong> </strong>26: 2519-2534.</li>
-<li>Derive N, Landmann C, Montembault E, Claverie MC, Pierre-Elies P, Goutte-Gattat D, Founounou N, McCusker D, Royou A. Bub3-associated BubR1 sequesters Fizzy/Cdc20 at DNA breaks and promotes the correct segregation of broken chromosomes. The Journal of Cell Biology. 2015. 211: 517-32.</li>
-<li>Jose M, Tollis S, Nair D, Sibarita JB and McCusker D. Robust polarity establishment occurs via an endocytosis-based cortical corralling mechanism. The Journal of Cell Biology. 2013. 200: 407-418.</li>
-<li>McCusker D<strong> </strong>and Kellogg D. Membrane growth during the cell cycle: Unsolved mysteries and recent progress. Current Opinion in Cell Biology. 2012. 24: 845-851.</li>
-<li>Kellogg, D.<strong>*</strong> Royou, A. and McCusker, D.*<strong> </strong>Cdk1-dependent control of membrane trafficking dynamics. Molecular Biology of the Cell. 2012.<strong> </strong>July 5. 3336-3347. (* Shared senior co-authorship).</li>
-<li> </li>
-</ul>
-<h2>Research team</h2>
-<ul>
-<li>Dr. Derek MCCUSKER Team leader</li>
-<li>Laure BATAILLE Research Engineer (CNRS)</li>
-<li>Aurélie MASSONI-LAPORTE Assistant Engineer (CNRS)</li>
-<li>Julien MECA PhD Student (Université de Bordeaux)</li>
-<li>Dr. Péter RAPALI Postdoctoral Fellow (CNRS)</li>
-<li>Dr. Elodie SARTOREL Postdoctoral Fellow (CNRS)</li>
-<li>Dr. Caner UNLU Postdoctoral Fellow (CNRS)</li>
-</ul>
-<p><em>This team is part of the “Institut de Biochimie et Génétique Cellulaire” (IBGC), CNRS/Université Bordeaux (UMR5095)</em></p>
-<p> </p>
-<p> </p>
-<h2>Bio</h2>
-<p>Derek McCusker studied Immunology at Glasgow University and focused on the role of the proteasome in immunity in Prof. John Trowsdale’s lab at Cancer Research UK during his thesis. During postdoctoral work with Dr Robert Arkowitz at the Laboratory of Molecular Biology in Cambridge he became interested in the control of cell growth. He then joined Prof Douglas Kellogg’s group at the University of California, Santa Cruz, where he investigated how cells coordinate cell growth and cell division, a key problem in cell biology. He was recruited by CNRS in September 2009 and joined IECB as a group leader. The group uses interdisciplinary approaches to study how cell growth is coordinated with progression through the cell cycle.</p>
-<h2><br>Keywords / Expertise / Techniques</h2>
-<p>cell growth, cell cycle, cell polarity, Rho GTPase, endocytosis, exocytosis, cyclin-dependent kinase, phosphorylation, cell biology, TIRF-microscopy, membrane dynamics, biochemistry, mathematical modeling</p>
-</td>
-</tr>
-</tbody>
-</table>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Peptidomimetic chemistry</title>
-        <author>
-            <name>IECB Publisher</name>
-        </author>
-        <link href="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/peptidomimetic-chemistry.html"/>
-        <id>https://iecb-u-bordeaux.github.io/website-publii-cms-repo/peptidomimetic-chemistry.html</id>
-            <category term="Protein"/>
-            <category term="Peptidomimetic"/>
-            <category term="Peptide"/>
-            <category term="Chemistry"/>
-
-        <updated>2020-08-01T19:18:33+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/4/pexels-chokniti-khongchum-2280571.jpg" alt="" />
-                    SummaryThe ability of the polypeptide chain to fold correctly into well-ordered tertiary structures that can ultimately assemble into defined quaternary arrrangments is a major determinant of protein function. Multiple approaches, at the interface between biology, synthetic organic and polymer chemistries are currently being explored to&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://iecb-u-bordeaux.github.io/website-publii-cms-repo/media/posts/4/pexels-chokniti-khongchum-2280571.jpg" alt="" />
-                <h2>Summary</h2>
-<p>The ability of the polypeptide chain to fold correctly into well-ordered tertiary structures that can ultimately assemble into defined quaternary arrrangments is a major determinant of protein function. Multiple approaches, at the interface between biology, synthetic organic and polymer chemistries are currently being explored to elaborate synthetic systems with protein-like structures and functions. By using peptidomimetic chemistry, the general aims of our research are (i) to understand how to program molecules with the necessary information for self-ordering into complex and functional architectures, (ii) to create folded systems mimicking protein secondary<strong><br><br></strong></p>
-<h2>Activity report</h2>
-<p>Our research program focuses on Peptidomimetic and Foldamer Chemistry and more specifically on aliphatic urea oligomers which adopt well defined and stable helical secondary structures. Over the last five years, the group has thoroughly explored the requirements for secondary structure formation, expanded the monomer repertoire and improved synthesis by generalizing solid-phase methods. The development of functional folded architectures has now become a major objective. Our early work in this direction was mainly dedicated to the design of cationic amphiphilic helices with antibacterial activities and was recently extended to sequences that interact with plasmid DNA (Highlight #1). The finding that oligourea foldamers can be interfaced with peptide helices is another feature of particular significance in the context of peptide and protein mimicry (Highlight #2). Finally, we have started to explore the possibility to design foldamer units for the precise construction of nanometer scale assemblies mimicking protein quaternary structures (Highlight#3).<br><br></p>
-<p>2015 Highlights :<br><br></p>
-<p><strong>Highlight #1 : A Cell-Penetrating Foldamer for Intracellular Delivery of DNA</strong></p>
-<p>Peptide mimics based on artificial backbones may combine useful properties such as diminished susceptibility to degradation by proteases, high control over secondary structures, and a propensity to form assemblies in aqueous solution. Despite significant advances in foldamer chemistry, tailored delivery systems based on foldamer architectures, are curiously rare among non-viral technologies for transporting nucleic acids into cells. In this work, we sought to develop a urea-based cell-penetrating foldamer system for gene transfection that would enable endosomal escape and release of DNA into the cytoplasm. We prepared pH-responsive and bioreducible cell-penetrating foldamers (CPF) through covalent dimerization of a short (8-mer) amphipathic oligourea sequence bearing histidine-type units. This CPF was found to assemble with pDNA and to mediate efficient delivery of nucleic acids into the cell (<i>Angew. Chem. Int. Ed. </i>2015).<br><br></p>
-<p><strong>Highlight #2 : Chimeric α-Peptide/Oligourea Helices</strong></p>
-<p>We have obtained very promising results trying to interface urea-based foldamers with α-peptides (<i>Angew Chem Int Ed</i> 2015 &amp; <i>C R Chimie</i> 2016). The rationale was that the oligourea helix shares a number of features with the α-helix such as helix polarity and pitch. In this work (see <i>Figure 1</i>), we have investigated the ability of aliphatic oligoureas fused to short peptide segments to nucleate α-helical structures. We found that the resulting chimeras were fully helical in the solid state as well as in polar solvents, with as few as 2 (or 3) urea units sufficient to propagate an α-helical conformation in the fused peptide segment. The remarkable compatibility of α-peptide and oligourea backbones, along with the simplicity of the technology may suggest a general approach for the mimicry of peptide and protein helices for various applications.</p>
-<p> </p>
-<p><img loading="lazy" src="http://www.iecb.u-bordeaux.fr/images/stories/Equipes/Guichard/2015_helix_rubanb.jpg" data-is-external-image="true"  alt="2015_helix_rubanb" width="600" height="300"></p>
-<p><strong>Fig. 1. </strong><i>Crystal structure of a α-helix (green) stabilized by two short adjacent accessory foldamers (grey).</i><i></i></p>
-<p> </p>
-<p><strong>Highlight #3 : Self-assembly of Amphiphilic Non-peptide Helical Foldamers</strong></p>
-<p>Taking inspiration from protein tertiary and quaternary structures, we have successfully transposed folding and assembly processes to artificial (non-peptide) molecular chains to create nanostructures with unusual shapes (e.g. bundles or nanotubular assemblies) in aqueous conditions (<i>Nature Chem</i>, 2015 &amp; <i>Chem Commun</i> 2016). Four high-resolution crystal structures of unique foldamer quaternary arrangements have been described, supported by high-field NMR, electron microscopy and additional solution studies (<i>Figure 2</i>). The sequences of these oligomers were designed to contain a certain proportion of residues with polar and nonpolar side chains which depending on their arrangement at the surface of the helix determine how the helices self-assemble in water. Similar to soluble proteins, the hydrophobic effect (which leads to the burial of nonpolar side chains) is predominant. Due to (i) the simplicity of the design hypothesis, (ii) the small size of helical components and (iii) the tunability of the reported assemblies, this approach could be implemented for the creation of structures with a wider range of topologies, functional properties and, consequently, applications.<br><br></p>
-<p> </p>
-<p><img loading="lazy" src="http://www.iecb.u-bordeaux.fr/images/stories/Equipes/Guichard/2015_h2-surface-grey-red-englishb.jpg" data-is-external-image="true"  alt="2015_h2-surface-grey-red-englishb" width="600" height="188"></p>
-<p><strong>Fig. 2. </strong><i>Assemblies obtained in aqueous conditions from amphiphilic oligourea sequences.<br><br></i></p>
-<p> </p>
-<h2><br>Selected publications<br><br></h2>
-<ul>
-<li>Collie, G. W.; Pulka-Ziach, K.; Guichard, G. In situ iodination and X-ray crystal structure of a foldamer helix bundle. <i>Chem. Commun.</i> <strong>2016</strong>, 52, 1202-1205.</li>
-<li>Collie, G. W.; Pulka-Ziach, K.; Lombardo, C. M.; Fremaux, J.; Rosu, F.; Decossas, M.; Mauran, L.; Lambert, O.; Gabelica, V.; Mackereth, C. D.; Guichard, G. Shaping quaternary assemblies of water-soluble non-peptide helical foldamers by sequence manipulation. <i>Nat Chem</i> <strong>2015</strong>, 7, 871-878.</li>
-<li>Douat, C.; Aisenbrey, C.; Antunes, S.; Decossas, M.; Lambert, O.; Bechinger, B.; Kichler, A.; Guichard, G. A Cell-Penetrating Foldamer with a Bioreducible Linkage for Intracellular Delivery of DNA. <i>Angew. Chem. Int. Ed.</i> <strong>2015</strong>, 54, 11133-11137.</li>
-<li>Fremaux, J.; Mauran, L.; Pulka-Ziach, K.; Kauffmann, B.; Odaert, B.; Guichard, G. α-Peptide–Oligourea Chimeras: Stabilization of Short α-Helices by Non-Peptide Helical Foldamers. <i>Angew. Chem. Int. Ed.</i> <strong>2015</strong>, 54, 9816-9820.</li>
-<li>Seefeldt, A. C.; Nguyen, F.; Antunes, S.; Perebaskine, N.; Graf, M.; Arenz, S.; Inampudi, K. K.; Douat, C.; Guichard, G.; Wilson, D. N.; Innis, C. A. The proline-rich antimicrobial peptide Onc112 inhibits translation by blocking and destabilizing the initiation complex. <i>Nat Struct Mol Biol</i> <strong>2015</strong>, 22, 470-475.</li>
-<li>Nelli, Y. R.; Antunes, S.; Salaün, A.; Thinon, E.; Massip, S.; Kauffmann, B.; Douat, C.; Guichard, G. Isosteric Substitutions of Urea to Thiourea and Selenourea in Aliphatic Oligourea Foldamers: Site-Specific Perturbation of the Helix Geometry. <i>Chem. Eur. J.</i> <strong>2015</strong>, 21, 2870-2880.</li>
-<li>Pulka-Ziach, K.; Pavet, V.; Chekkat, N.; Estieu-Gionnet, K.; Rohac, R.; Lechner, M.-C.; Smulski, C. R.; Zeder-Lutz, G.; Altschuh, D.; Gronemeyer, H.; Fournel, S.; Odaert, B.; Guichard, G. Thioether Analogues of Disulfide-Bridged Cyclic Peptides Targeting Death Receptor 5: Conformational Analysis, Dimerisation and Consequences for Receptor Activation. <i>ChemBioChem</i> <strong>2015</strong>, 16, 293-301.</li>
-<li>Wechsel, R.; Maury, J.; Fremaux, J.; France, S. P.; Guichard, G.; Clayden, J. Inducing achiral aliphatic oligoureas to fold into helical conformations. <i>Chem. Commun. </i><strong>2014</strong>, 50, 15006-15009.</li>
-<li>Wolff, P.; Amal, I.; Oliéric, V.; Chaloin, O.; Gygli, G.; Ennifar, E.; Lorber, B.; Guichard, G.; Wagner, J.; Dejaegere, A.; Burnouf, D. Y. Differential Modes of Peptide Binding onto Replicative Sliding Clamps from Various Bacterial Origins. <i>J. Med. Chem.</i> <strong>2014</strong>, 57, 7565-7576.</li>
-</ul>
-<h2>Research team</h2>
-<ul>
-<li>
-<p>Dr. Gilles GUICHARD Team leader</p>
-</li>
-<li>
-<p>Dr. Céline DOUAT Researcher (CR1, CNRS)</p>
-</li>
-<li>Dr. Christel DOLAIN Lecturer (MCU, Université de Bordeaux)</li>
-<li>Dr. Morgane PASCO Researcher (CR2, CNRS)</li>
-<li>Dr. Gavin COLLIE Postdoctoral Fellow (CNRS)</li>
-<li>Dr. Caterina LOMBARDO Postdoctoral Fellow (Université de Bordeaux)</li>
-<li>Dr. Vincent DIEMER Postdoctoral Fellow (CNRS)</li>
-<li>Dr. Maialen SAGARTZAZU Postdoctoral Fellow (Universidad del Pais Vasco)</li>
-<li>Dr. Christophe ANDRE Postdoctoral Fellow (Université de Bordeaux)</li>
-<li>Dr. Arup ROY Postdoctoral Fellow (Université de Bordeaux)</li>
-<li>Stéphanie ANTUNES PhD Student (Université de Bordeaux)</li>
-<li>Diane BECART PhD Student (Université de Bordeaux)</li>
-<li>Johanne MBIANDA PhD Student (Université de Bordeaux)</li>
-<li>Léonie CUSSOL PhD Student (Université de Bordeaux)</li>
-</ul>
-<p><em>The team is part of the unit “Chimie et Biologie des Membranes et Nanoobjets” (CBMN), CNRS – Université de Bordeaux - Bordeaux INP (UMR 5248)</em></p>
             ]]>
         </content>
     </entry>
